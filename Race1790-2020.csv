@@ -1,0 +1,2953 @@
+Year,State,STATEA,County,COUNTYA,AREANAME,BlackPop
+1790,Georgia,130,Burke,330,Burke,2403
+1790,Georgia,130,Camden,390,Camden,84
+1790,Georgia,130,Chatham,510,Chatham,8313
+1790,Georgia,130,Effingham,1030,Effingham,750
+1790,Georgia,130,Franklin,1190,Franklin,156
+1790,Georgia,130,Glynn,1270,Glynn,220
+1790,Georgia,130,Greene,1330,Greene,1385
+1790,Georgia,130,Liberty,1790,Liberty,4052
+1790,Georgia,130,Richmond,2450,Richmond,4155
+1790,Georgia,130,Washington,3030,Washington,696
+1790,Georgia,130,Wilkes,3170,Wilkes,7448
+1800,Georgia,130,Bryan,290,Bryan,2308
+1800,Georgia,130,Bulloch,310,Bulloch,284
+1800,Georgia,130,Burke,330,Burke,2981
+1800,Georgia,130,Camden,390,Camden,745
+1800,Georgia,130,Chatham,510,Chatham,9273
+1800,Georgia,130,Columbia,730,Columbia,3024
+1800,Georgia,130,Effingham,1030,Effingham,762
+1800,Georgia,130,Elbert,1050,Elbert,2839
+1800,Georgia,130,Franklin,1190,Franklin,967
+1800,Georgia,130,Glynn,1270,Glynn,1095
+1800,Georgia,130,Greene,1330,Greene,3664
+1800,Georgia,130,Hancock,1410,Hancock,4851
+1800,Georgia,130,Jackson,1570,Jackson,1408
+1800,Georgia,130,Jefferson,1630,Jefferson,1676
+1800,Georgia,130,Liberty,1790,Liberty,3967
+1800,Georgia,130,Lincoln,1810,Lincoln,1440
+1800,Georgia,130,McIntosh,1910,Mcintosh,1829
+1800,Georgia,130,Montgomery,2090,Montgomery,438
+1800,Georgia,130,Oglethorpe,2210,Oglethorpe,3094
+1800,Georgia,130,Richmond,2450,Richmond,2745
+1800,Georgia,130,Screven,2510,Screven,766
+1800,Georgia,130,Warren,3010,Warren,2077
+1800,Georgia,130,Washington,3030,Washington,3119
+1800,Georgia,130,Wilkes,3170,Wilkes,5071
+1810,Georgia,130,Baldwin,90,Baldwin,2566
+1810,Georgia,130,Bryan,290,Bryan,2270
+1810,Georgia,130,Bulloch,310,Bulloch,444
+1810,Georgia,130,Burke,330,Burke,4767
+1810,Georgia,130,Camden,390,Camden,2734
+1810,Georgia,130,Chatham,510,Chatham,10326
+1810,Georgia,130,Clarke,590,Clarke,2628
+1810,Georgia,130,Columbia,730,Columbia,6013
+1810,Georgia,130,Effingham,1030,Effingham,1011
+1810,Georgia,130,Elbert,1050,Elbert,4624
+1810,Georgia,130,Franklin,1190,Franklin,1672
+1810,Georgia,130,Glynn,1270,Glynn,2853
+1810,Georgia,130,Greene,1330,Greene,5281
+1810,Georgia,130,Hancock,1410,Hancock,6481
+1810,Georgia,130,Jackson,1570,Jackson,1827
+1810,Georgia,130,Jefferson,1630,Jefferson,2365
+1810,Georgia,130,Jones,1690,Jones,3026
+1810,Georgia,130,Laurens,1750,Laurens,496
+1810,Georgia,130,Liberty,1790,Liberty,4876
+1810,Georgia,130,Lincoln,1810,Lincoln,2224
+1810,Georgia,130,McIntosh,1910,Mcintosh,2978
+1810,Georgia,130,Montgomery,2090,Montgomery,764
+1810,Georgia,130,Morgan,2110,Morgan,2420
+1810,Georgia,130,Oglethorpe,2210,Oglethorpe,5440
+1810,Georgia,130,Pulaski,2350,Pulaski,540
+1810,Georgia,130,Putnam,2370,Putnam,3258
+1810,Georgia,130,Randolph (old),2435,Randolph (old),1830
+1810,Georgia,130,Richmond,2450,Richmond,3508
+1810,Georgia,130,Screven,2510,Screven,1820
+1810,Georgia,130,Tattnall,2670,Tattnall,606
+1810,Georgia,130,Telfair,2710,Telfair,219
+1810,Georgia,130,Twiggs,2890,Twiggs,649
+1810,Georgia,130,Walton,2970,Walton,62
+1810,Georgia,130,Warren,3010,Warren,3066
+1810,Georgia,130,Washington,3030,Washington,3517
+1810,Georgia,130,Wayne,3050,Wayne,255
+1810,Georgia,130,Wilkes,3170,Wilkes,7285
+1810,Georgia,130,Wilkinson,3190,Wilkinson,318
+1820,Georgia,130,Appling,10,Appling,86
+1820,Georgia,130,Baldwin,90,Baldwin,4247
+1820,Georgia,130,Bryan,290,Bryan,2262
+1820,Georgia,130,Bulloch,310,Bulloch,701
+1820,Georgia,130,Burke,330,Burke,5904
+1820,Georgia,130,Camden,390,Camden,2533
+1820,Georgia,130,Chatham,510,Chatham,10168
+1820,Georgia,130,Clarke,590,Clarke,3482
+1820,Georgia,130,Columbia,730,Columbia,7482
+1820,Georgia,130,Early,990,Early,217
+1820,Georgia,130,Effingham,1030,Effingham,1364
+1820,Georgia,130,Elbert,1050,Elbert,5159
+1820,Georgia,130,Emanuel,1070,Emanuel,402
+1820,Georgia,130,Franklin,1190,Franklin,1800
+1820,Georgia,130,Glynn,1270,Glynn,2775
+1820,Georgia,130,Greene,1330,Greene,6990
+1820,Georgia,130,Gwinnett,1350,Gwinnett,539
+1820,Georgia,130,Habersham,1370,Habersham,277
+1820,Georgia,130,Hall,1390,Hall,405
+1820,Georgia,130,Hancock,1410,Hancock,6887
+1820,Georgia,130,Irwin,1550,Irwin,39
+1820,Georgia,130,Jackson,1570,Jackson,2009
+1820,Georgia,130,Jasper,1590,Jasper,5528
+1820,Georgia,130,Jefferson,1630,Jefferson,3122
+1820,Georgia,130,Jones,1690,Jones,6950
+1820,Georgia,130,Laurens,1750,Laurens,1986
+1820,Georgia,130,Liberty,1790,Liberty,5054
+1820,Georgia,130,Lincoln,1810,Lincoln,3080
+1820,Georgia,130,McIntosh,1910,Mcintosh,3786
+1820,Georgia,130,Madison,1950,Madison,906
+1820,Georgia,130,Montgomery,2090,Montgomery,704
+1820,Georgia,130,Morgan,2110,Morgan,6057
+1820,Georgia,130,Oglethorpe,2210,Oglethorpe,7343
+1820,Georgia,130,Pulaski,2350,Pulaski,2046
+1820,Georgia,130,Putnam,2370,Putnam,7267
+1820,Georgia,130,Rabun,2410,Rabun,15
+1820,Georgia,130,Richmond,2450,Richmond,4941
+1820,Georgia,130,Screven,2510,Screven,1851
+1820,Georgia,130,Tattnall,2670,Tattnall,581
+1820,Georgia,130,Telfair,2710,Telfair,681
+1820,Georgia,130,Twiggs,2890,Twiggs,3544
+1820,Georgia,130,Walton,2970,Walton,636
+1820,Georgia,130,Warren,3010,Warren,4100
+1820,Georgia,130,Washington,3030,Washington,3930
+1820,Georgia,130,Wayne,3050,Wayne,339
+1820,Georgia,130,Wilkes,3170,Wilkes,9768
+1820,Georgia,130,Wilkinson,3190,Wilkinson,1476
+1830,Georgia,130,Appling,10,Appling,184
+1830,Georgia,130,Baker,70,Baker,276
+1830,Georgia,130,Baldwin,90,Baldwin,4569
+1830,Georgia,130,Bibb,210,Bibb,3015
+1830,Georgia,130,Bryan,290,Bryan,2416
+1830,Georgia,130,Bulloch,310,Bulloch,654
+1830,Georgia,130,Burke,330,Burke,6767
+1830,Georgia,130,Butts,350,Butts,1690
+1830,Georgia,130,Camden,390,Camden,3120
+1830,Georgia,130,Campbell,395,Campbell,629
+1830,Georgia,130,Carroll,450,Carroll,695
+1830,Georgia,130,Chatham,510,Chatham,9901
+1830,Georgia,130,Clarke,590,Clarke,4738
+1830,Georgia,130,Columbia,730,Columbia,8139
+1830,Georgia,130,Coweta,770,Coweta,1372
+1830,Georgia,130,Crawford,790,Crawford,1722
+1830,Georgia,130,Decatur,870,Decatur,1313
+1830,Georgia,130,DeKalb,890,De Kalb,1666
+1830,Georgia,130,Dooly,930,Dooly,348
+1830,Georgia,130,Early,990,Early,546
+1830,Georgia,130,Effingham,1030,Effingham,1217
+1830,Georgia,130,Elbert,1050,Elbert,5853
+1830,Georgia,130,Emanuel,1070,Emanuel,494
+1830,Georgia,130,Fayette,1130,Fayette,1238
+1830,Georgia,130,Franklin,1190,Franklin,2413
+1830,Georgia,130,Glynn,1270,Glynn,3970
+1830,Georgia,130,Greene,1330,Greene,7523
+1830,Georgia,130,Gwinnett,1350,Gwinnett,2340
+1830,Georgia,130,Habersham,1370,Habersham,914
+1830,Georgia,130,Hall,1390,Hall,1185
+1830,Georgia,130,Hancock,1410,Hancock,7217
+1830,Georgia,130,Harris,1450,Harris,2274
+1830,Georgia,130,Henry,1510,Henry,2577
+1830,Georgia,130,Houston,1530,Houston,2208
+1830,Georgia,130,Irwin,1550,Irwin,114
+1830,Georgia,130,Jackson,1570,Jackson,2824
+1830,Georgia,130,Jasper,1590,Jasper,6364
+1830,Georgia,130,Jefferson,1630,Jefferson,3706
+1830,Georgia,130,Jones,1690,Jones,6874
+1830,Georgia,130,Laurens,1750,Laurens,2389
+1830,Georgia,130,Lee,1770,Lee,311
+1830,Georgia,130,Liberty,1790,Liberty,5645
+1830,Georgia,130,Lincoln,1810,Lincoln,3321
+1830,Georgia,130,Lowndes,1850,Lowndes,340
+1830,Georgia,130,McIntosh,1910,Mcintosh,3903
+1830,Georgia,130,Madison,1950,Madison,1261
+1830,Georgia,130,Marion,1970,Marion,109
+1830,Georgia,130,Meriwether,1990,Meriwether,1404
+1830,Georgia,130,Monroe,2070,Monroe,7364
+1830,Georgia,130,Montgomery,2090,Montgomery,335
+1830,Georgia,130,Morgan,2110,Morgan,6835
+1830,Georgia,130,Muscogee,2150,Muscogee,1248
+1830,Georgia,130,Newton,2170,Newton,3027
+1830,Georgia,130,Oglethorpe,2210,Oglethorpe,7959
+1830,Georgia,130,Pike,2310,Pike,1793
+1830,Georgia,130,Pulaski,2350,Pulaski,1783
+1830,Georgia,130,Putnam,2370,Putnam,7748
+1830,Georgia,130,Rabun,2410,Rabun,61
+1830,Georgia,130,Randolph,2430,Randolph,683
+1830,Georgia,130,Richmond,2450,Richmond,6481
+1830,Georgia,130,Screven,2510,Screven,2389
+1830,Georgia,130,Talbot,2630,Talbot,2101
+1830,Georgia,130,Taliaferro,2650,Taliaferro,2772
+1830,Georgia,130,Tattnall,2670,Tattnall,520
+1830,Georgia,130,Telfair,2710,Telfair,567
+1830,Georgia,130,Thomas,2750,Thomas,1172
+1830,Georgia,130,Troup,2850,Troup,2192
+1830,Georgia,130,Twiggs,2890,Twiggs,3536
+1830,Georgia,130,Upson,2930,Upson,2569
+1830,Georgia,130,Walton,2970,Walton,3167
+1830,Georgia,130,Ware,2990,Ware,64
+1830,Georgia,130,Warren,3010,Warren,4794
+1830,Georgia,130,Washington,3030,Washington,3925
+1830,Georgia,130,Wayne,3050,Wayne,287
+1830,Georgia,130,Wilkes,3170,Wilkes,8972
+1830,Georgia,130,Wilkinson,3190,Wilkinson,1925
+1840,Georgia,130,Appling,10,Appling,297
+1840,Georgia,130,Baker,70,Baker,1779
+1840,Georgia,130,Baldwin,90,Baldwin,4175
+1840,Georgia,130,Bibb,210,Bibb,4447
+1840,Georgia,130,Bryan,290,Bryan,2285
+1840,Georgia,130,Bulloch,310,Bulloch,955
+1840,Georgia,130,Burke,330,Burke,8567
+1840,Georgia,130,Butts,350,Butts,2023
+1840,Georgia,130,Camden,390,Camden,4071
+1840,Georgia,130,Campbell,395,Campbell,844
+1840,Georgia,130,Carroll,450,Carroll,527
+1840,Georgia,130,Cass,455,Cass,2009
+1840,Georgia,130,Chatham,510,Chatham,12000
+1840,Georgia,130,Chattooga,550,Chattooga,814
+1840,Georgia,130,Cherokee,570,Cherokee,494
+1840,Georgia,130,Clarke,590,Clarke,4919
+1840,Georgia,130,Cobb,670,Cobb,909
+1840,Georgia,130,Columbia,730,Columbia,7436
+1840,Georgia,130,Coweta,770,Coweta,3101
+1840,Georgia,130,Crawford,790,Crawford,3569
+1840,Georgia,130,Dade,830,Dade,79
+1840,Georgia,130,Decatur,870,Decatur,2394
+1840,Georgia,130,DeKalb,890,De Kalb,2011
+1840,Georgia,130,Dooly,930,Dooly,1193
+1840,Georgia,130,Early,990,Early,2324
+1840,Georgia,130,Effingham,1030,Effingham,1442
+1840,Georgia,130,Elbert,1050,Elbert,5048
+1840,Georgia,130,Emanuel,1070,Emanuel,629
+1840,Georgia,130,Fayette,1130,Fayette,1364
+1840,Georgia,130,Floyd,1150,Floyd,1276
+1840,Georgia,130,Forsyth,1170,Forsyth,559
+1840,Georgia,130,Franklin,1190,Franklin,2132
+1840,Georgia,130,Gilmer,1230,Gilmer,95
+1840,Georgia,130,Glynn,1270,Glynn,4411
+1840,Georgia,130,Greene,1330,Greene,7049
+1840,Georgia,130,Gwinnett,1350,Gwinnett,2252
+1840,Georgia,130,Habersham,1370,Habersham,954
+1840,Georgia,130,Hall,1390,Hall,1102
+1840,Georgia,130,Hancock,1410,Hancock,5962
+1840,Georgia,130,Harris,1450,Harris,6451
+1840,Georgia,130,Heard,1490,Heard,1580
+1840,Georgia,130,Henry,1510,Henry,3332
+1840,Georgia,130,Houston,1530,Houston,4850
+1840,Georgia,130,Irwin,1550,Irwin,266
+1840,Georgia,130,Jackson,1570,Jackson,2528
+1840,Georgia,130,Jasper,1590,Jasper,6190
+1840,Georgia,130,Jefferson,1630,Jefferson,4377
+1840,Georgia,130,Jones,1690,Jones,5648
+1840,Georgia,130,Laurens,1750,Laurens,2507
+1840,Georgia,130,Lee,1770,Lee,2051
+1840,Georgia,130,Liberty,1790,Liberty,5596
+1840,Georgia,130,Lincoln,1810,Lincoln,3368
+1840,Georgia,130,Lowndes,1850,Lowndes,1180
+1840,Georgia,130,Lumpkin,1870,Lumpkin,528
+1840,Georgia,130,McIntosh,1910,Mcintosh,4012
+1840,Georgia,130,Macon,1930,Macon,1492
+1840,Georgia,130,Madison,1950,Madison,1385
+1840,Georgia,130,Marion,1970,Marion,1071
+1840,Georgia,130,Meriwether,1990,Meriwether,5407
+1840,Georgia,130,Monroe,2070,Monroe,8471
+1840,Georgia,130,Montgomery,2090,Montgomery,337
+1840,Georgia,130,Morgan,2110,Morgan,5660
+1840,Georgia,130,Murray,2130,Murray,799
+1840,Georgia,130,Muscogee,2150,Muscogee,4760
+1840,Georgia,130,Newton,2170,Newton,3738
+1840,Georgia,130,Oglethorpe,2210,Oglethorpe,6362
+1840,Georgia,130,Paulding,2230,Paulding,454
+1840,Georgia,130,Pike,2310,Pike,2581
+1840,Georgia,130,Pulaski,2350,Pulaski,2417
+1840,Georgia,130,Putnam,2370,Putnam,6519
+1840,Georgia,130,Rabun,2410,Rabun,84
+1840,Georgia,130,Randolph,2430,Randolph,2690
+1840,Georgia,130,Richmond,2450,Richmond,6282
+1840,Georgia,130,Screven,2510,Screven,2632
+1840,Georgia,130,Stewart,2590,Stewart,4759
+1840,Georgia,130,Sumter,2610,Sumter,1644
+1840,Georgia,130,Talbot,2630,Talbot,6766
+1840,Georgia,130,Taliaferro,2650,Taliaferro,2895
+1840,Georgia,130,Tattnall,2670,Tattnall,846
+1840,Georgia,130,Telfair,2710,Telfair,762
+1840,Georgia,130,Thomas,2750,Thomas,2956
+1840,Georgia,130,Troup,2850,Troup,7051
+1840,Georgia,130,Twiggs,2890,Twiggs,4208
+1840,Georgia,130,Union,2910,Union,87
+1840,Georgia,130,Upson,2930,Upson,3872
+1840,Georgia,130,Walker,2950,Walker,989
+1840,Georgia,130,Walton,2970,Walton,3626
+1840,Georgia,130,Ware,2990,Ware,134
+1840,Georgia,130,Warren,3010,Warren,4613
+1840,Georgia,130,Washington,3030,Washington,4603
+1840,Georgia,130,Wayne,3050,Wayne,381
+1840,Georgia,130,Wilkes,3170,Wilkes,6518
+1840,Georgia,130,Wilkinson,3190,Wilkinson,1885
+1850,Georgia,130,Appling,10,Appling,429
+1850,Georgia,130,Baker,70,Baker,3769
+1850,Georgia,130,Baldwin,90,Baldwin,4629
+1850,Georgia,130,Bibb,210,Bibb,5690
+1850,Georgia,130,Bryan,290,Bryan,2260
+1850,Georgia,130,Bulloch,310,Bulloch,1460
+1850,Georgia,130,Burke,330,Burke,10982
+1850,Georgia,130,Butts,350,Butts,2808
+1850,Georgia,130,Camden,390,Camden,4250
+1850,Georgia,130,Campbell,395,Campbell,1514
+1850,Georgia,130,Carroll,450,Carroll,1105
+1850,Georgia,130,Cass,455,Cass,3029
+1850,Georgia,130,Chatham,510,Chatham,14749
+1850,Georgia,130,Chattooga,550,Chattooga,1684
+1850,Georgia,130,Cherokee,570,Cherokee,1170
+1850,Georgia,130,Clarke,590,Clarke,5606
+1850,Georgia,130,Clinch,650,Clinch,131
+1850,Georgia,130,Cobb,670,Cobb,2275
+1850,Georgia,130,Columbia,730,Columbia,8344
+1850,Georgia,130,Coweta,770,Coweta,5433
+1850,Georgia,130,Crawford,790,Crawford,4642
+1850,Georgia,130,Dade,830,Dade,148
+1850,Georgia,130,Decatur,870,Decatur,3644
+1850,Georgia,130,DeKalb,890,De Kalb,2956
+1850,Georgia,130,Dooly,930,Dooly,2781
+1850,Georgia,130,Early,990,Early,3530
+1850,Georgia,130,Effingham,1030,Effingham,1857
+1850,Georgia,130,Elbert,1050,Elbert,6283
+1850,Georgia,130,Emanuel,1070,Emanuel,986
+1850,Georgia,130,Fayette,1130,Fayette,1968
+1850,Georgia,130,Floyd,1150,Floyd,3003
+1850,Georgia,130,Forsyth,1170,Forsyth,1038
+1850,Georgia,130,Franklin,1190,Franklin,2437
+1850,Georgia,130,Gilmer,1230,Gilmer,204
+1850,Georgia,130,Glynn,1270,Glynn,4237
+1850,Georgia,130,Gordon,1290,Gordon,828
+1850,Georgia,130,Greene,1330,Greene,8324
+1850,Georgia,130,Gwinnett,1350,Gwinnett,2305
+1850,Georgia,130,Habersham,1370,Habersham,1220
+1850,Georgia,130,Hall,1390,Hall,1343
+1850,Georgia,130,Hancock,1410,Hancock,7368
+1850,Georgia,130,Harris,1450,Harris,8012
+1850,Georgia,130,Heard,1490,Heard,2403
+1850,Georgia,130,Henry,1510,Henry,4984
+1850,Georgia,130,Houston,1530,Houston,9940
+1850,Georgia,130,Irwin,1550,Irwin,451
+1850,Georgia,130,Jackson,1570,Jackson,2960
+1850,Georgia,130,Jasper,1590,Jasper,7165
+1850,Georgia,130,Jefferson,1630,Jefferson,5414
+1850,Georgia,130,Jones,1690,Jones,6325
+1850,Georgia,130,Laurens,1750,Laurens,2983
+1850,Georgia,130,Lee,1770,Lee,3635
+1850,Georgia,130,Liberty,1790,Liberty,5924
+1850,Georgia,130,Lincoln,1810,Lincoln,3811
+1850,Georgia,130,Lowndes,1850,Lowndes,2375
+1850,Georgia,130,Lumpkin,1870,Lumpkin,960
+1850,Georgia,130,McIntosh,1910,Mcintosh,4701
+1850,Georgia,130,Macon,1930,Macon,2964
+1850,Georgia,130,Madison,1950,Madison,1940
+1850,Georgia,130,Marion,1970,Marion,3613
+1850,Georgia,130,Meriwether,1990,Meriwether,7995
+1850,Georgia,130,Monroe,2070,Monroe,10175
+1850,Georgia,130,Montgomery,2090,Montgomery,613
+1850,Georgia,130,Morgan,2110,Morgan,7110
+1850,Georgia,130,Murray,2130,Murray,1941
+1850,Georgia,130,Muscogee,2150,Muscogee,8223
+1850,Georgia,130,Newton,2170,Newton,5219
+1850,Georgia,130,Oglethorpe,2210,Oglethorpe,7877
+1850,Georgia,130,Paulding,2230,Paulding,1479
+1850,Georgia,130,Pike,2310,Pike,5620
+1850,Georgia,130,Pulaski,2350,Pulaski,2843
+1850,Georgia,130,Putnam,2370,Putnam,7494
+1850,Georgia,130,Rabun,2410,Rabun,110
+1850,Georgia,130,Randolph,2430,Randolph,5011
+1850,Georgia,130,Richmond,2450,Richmond,8093
+1850,Georgia,130,Screven,2510,Screven,3674
+1850,Georgia,130,Stewart,2590,Stewart,7378
+1850,Georgia,130,Sumter,2610,Sumter,3853
+1850,Georgia,130,Talbot,2630,Talbot,8741
+1850,Georgia,130,Taliaferro,2650,Taliaferro,3095
+1850,Georgia,130,Tattnall,2670,Tattnall,849
+1850,Georgia,130,Telfair,2710,Telfair,930
+1850,Georgia,130,Thomas,2750,Thomas,5160
+1850,Georgia,130,Troup,2850,Troup,9088
+1850,Georgia,130,Twiggs,2890,Twiggs,4662
+1850,Georgia,130,Union,2910,Union,279
+1850,Georgia,130,Upson,2930,Upson,4704
+1850,Georgia,130,Walker,2950,Walker,1701
+1850,Georgia,130,Walton,2970,Walton,3926
+1850,Georgia,130,Ware,2990,Ware,291
+1850,Georgia,130,Warren,3010,Warren,6267
+1850,Georgia,130,Washington,3030,Washington,5775
+1850,Georgia,130,Wayne,3050,Wayne,411
+1850,Georgia,130,Wilkes,3170,Wilkes,8302
+1850,Georgia,130,Wilkinson,3190,Wilkinson,2745
+1860,Georgia,130,Appling,10,Appling,748
+1860,Georgia,130,Baker,70,Baker,3492
+1860,Georgia,130,Baldwin,90,Baldwin,5021
+1860,Georgia,130,Banks,110,Banks,1097
+1860,Georgia,130,Berrien,190,Berrien,434
+1860,Georgia,130,Bibb,210,Bibb,6831
+1860,Georgia,130,Brooks,270,Brooks,3284
+1860,Georgia,130,Bryan,290,Bryan,2379
+1860,Georgia,130,Bulloch,310,Bulloch,2162
+1860,Georgia,130,Burke,330,Burke,12152
+1860,Georgia,130,Butts,350,Butts,3082
+1860,Georgia,130,Calhoun,370,Calhoun,2739
+1860,Georgia,130,Camden,390,Camden,4144
+1860,Georgia,130,Campbell,395,Campbell,2012
+1860,Georgia,130,Carroll,450,Carroll,1875
+1860,Georgia,130,Cass,455,Cass,4291
+1860,Georgia,130,Catoosa,470,Catoosa,714
+1860,Georgia,130,Charlton,490,Charlton,557
+1860,Georgia,130,Chatham,510,Chatham,15532
+1860,Georgia,130,Chattahoochee,530,Chattahoochee,2763
+1860,Georgia,130,Chattooga,550,Chattooga,2058
+1860,Georgia,130,Cherokee,570,Cherokee,1244
+1860,Georgia,130,Clarke,590,Clarke,5679
+1860,Georgia,130,Clay,610,Clay,2267
+1860,Georgia,130,Clayton,630,Clayton,1226
+1860,Georgia,130,Clinch,650,Clinch,454
+1860,Georgia,130,Cobb,670,Cobb,3832
+1860,Georgia,130,Coffee,690,Coffee,673
+1860,Georgia,130,Colquitt,710,Colquitt,121
+1860,Georgia,130,Columbia,730,Columbia,8349
+1860,Georgia,130,Coweta,770,Coweta,7270
+1860,Georgia,130,Crawford,790,Crawford,4286
+1860,Georgia,130,Dade,830,Dade,304
+1860,Georgia,130,Dawson,850,Dawson,330
+1860,Georgia,130,Decatur,870,Decatur,5937
+1860,Georgia,130,DeKalb,890,De Kalb,2008
+1860,Georgia,130,Dooly,930,Dooly,4072
+1860,Georgia,130,Dougherty,950,Dougherty,6088
+1860,Georgia,130,Early,990,Early,4057
+1860,Georgia,130,Echols,1010,Echols,314
+1860,Georgia,130,Effingham,1030,Effingham,2183
+1860,Georgia,130,Elbert,1050,Elbert,5736
+1860,Georgia,130,Emanuel,1070,Emanuel,1333
+1860,Georgia,130,Fannin,1110,Fannin,144
+1860,Georgia,130,Fayette,1130,Fayette,2025
+1860,Georgia,130,Floyd,1150,Floyd,5926
+1860,Georgia,130,Forsyth,1170,Forsyth,898
+1860,Georgia,130,Franklin,1190,Franklin,1355
+1860,Georgia,130,Fulton,1210,Fulton,2986
+1860,Georgia,130,Gilmer,1230,Gilmer,170
+1860,Georgia,130,Glascock,1250,Glascock,783
+1860,Georgia,130,Glynn,1270,Glynn,2841
+1860,Georgia,130,Gordon,1290,Gordon,2145
+1860,Georgia,130,Greene,1330,Greene,8423
+1860,Georgia,130,Gwinnett,1350,Gwinnett,2582
+1860,Georgia,130,Habersham,1370,Habersham,830
+1860,Georgia,130,Hall,1390,Hall,1275
+1860,Georgia,130,Hancock,1410,Hancock,8173
+1860,Georgia,130,Haralson,1430,Haralson,229
+1860,Georgia,130,Harris,1450,Harris,7757
+1860,Georgia,130,Hart,1470,Hart,1534
+1860,Georgia,130,Heard,1490,Heard,2826
+1860,Georgia,130,Henry,1510,Henry,4527
+1860,Georgia,130,Houston,1530,Houston,10783
+1860,Georgia,130,Irwin,1550,Irwin,246
+1860,Georgia,130,Jackson,1570,Jackson,3356
+1860,Georgia,130,Jasper,1590,Jasper,6972
+1860,Georgia,130,Jefferson,1630,Jefferson,6086
+1860,Georgia,130,Johnson,1670,Johnson,856
+1860,Georgia,130,Jones,1690,Jones,6023
+1860,Georgia,130,Laurens,1750,Laurens,3275
+1860,Georgia,130,Lee,1770,Lee,4954
+1860,Georgia,130,Liberty,1790,Liberty,6106
+1860,Georgia,130,Lincoln,1810,Lincoln,3768
+1860,Georgia,130,Lowndes,1850,Lowndes,2399
+1860,Georgia,130,Lumpkin,1870,Lumpkin,470
+1860,Georgia,130,McIntosh,1910,Mcintosh,4117
+1860,Georgia,130,Macon,1930,Macon,4874
+1860,Georgia,130,Madison,1950,Madison,2009
+1860,Georgia,130,Marion,1970,Marion,3536
+1860,Georgia,130,Meriwether,1990,Meriwether,8752
+1860,Georgia,130,Miller,2010,Miller,640
+1860,Georgia,130,Milton,2015,Milton,618
+1860,Georgia,130,Mitchell,2050,Mitchell,1592
+1860,Georgia,130,Monroe,2070,Monroe,10200
+1860,Georgia,130,Montgomery,2090,Montgomery,983
+1860,Georgia,130,Morgan,2110,Morgan,7013
+1860,Georgia,130,Murray,2130,Murray,1444
+1860,Georgia,130,Muscogee,2150,Muscogee,7618
+1860,Georgia,130,Newton,2170,Newton,6498
+1860,Georgia,130,Oglethorpe,2210,Oglethorpe,7535
+1860,Georgia,130,Paulding,2230,Paulding,578
+1860,Georgia,130,Pickens,2270,Pickens,246
+1860,Georgia,130,Pierce,2290,Pierce,233
+1860,Georgia,130,Pike,2310,Pike,4746
+1860,Georgia,130,Polk,2330,Polk,2442
+1860,Georgia,130,Pulaski,2350,Pulaski,4137
+1860,Georgia,130,Putnam,2370,Putnam,7169
+1860,Georgia,130,Quitman,2390,Quitman,1629
+1860,Georgia,130,Rabun,2410,Rabun,210
+1860,Georgia,130,Randolph,2430,Randolph,4468
+1860,Georgia,130,Richmond,2450,Richmond,8879
+1860,Georgia,130,Schley,2490,Schley,2359
+1860,Georgia,130,Screven,2510,Screven,4532
+1860,Georgia,130,Spalding,2550,Spalding,3873
+1860,Georgia,130,Stewart,2590,Stewart,7888
+1860,Georgia,130,Sumter,2610,Sumter,4892
+1860,Georgia,130,Talbot,2630,Talbot,8622
+1860,Georgia,130,Taliaferro,2650,Taliaferro,2890
+1860,Georgia,130,Tattnall,2670,Tattnall,1161
+1860,Georgia,130,Taylor,2690,Taylor,2397
+1860,Georgia,130,Telfair,2710,Telfair,836
+1860,Georgia,130,Terrell,2730,Terrell,2889
+1860,Georgia,130,Thomas,2750,Thomas,6278
+1860,Georgia,130,Towns,2810,Towns,113
+1860,Georgia,130,Troup,2850,Troup,10039
+1860,Georgia,130,Twiggs,2890,Twiggs,5390
+1860,Georgia,130,Union,2910,Union,118
+1860,Georgia,130,Upson,2930,Upson,4895
+1860,Georgia,130,Walker,2950,Walker,1565
+1860,Georgia,130,Walton,2970,Walton,4627
+1860,Georgia,130,Ware,2990,Ware,382
+1860,Georgia,130,Warren,3010,Warren,5473
+1860,Georgia,130,Washington,3030,Washington,6555
+1860,Georgia,130,Wayne,3050,Wayne,651
+1860,Georgia,130,Webster,3070,Webster,2289
+1860,Georgia,130,White,3110,White,274
+1860,Georgia,130,Whitfield,3130,Whitfield,1733
+1860,Georgia,130,Wilcox,3150,Wilcox,423
+1860,Georgia,130,Wilkes,3170,Wilkes,7986
+1860,Georgia,130,Wilkinson,3190,Wilkinson,3904
+1860,Georgia,130,Worth,3210,Worth,645
+1870,Georgia,130,Appling,10,Appling,976
+1870,Georgia,130,Baker,70,Baker,4955
+1870,Georgia,130,Baldwin,90,Baldwin,6774
+1870,Georgia,130,Banks,110,Banks,921
+1870,Georgia,130,Bartow,150,Bartow,4719
+1870,Georgia,130,Berrien,190,Berrien,460
+1870,Georgia,130,Bibb,210,Bibb,11424
+1870,Georgia,130,Brooks,270,Brooks,4231
+1870,Georgia,130,Bryan,290,Bryan,3605
+1870,Georgia,130,Bulloch,310,Bulloch,1744
+1870,Georgia,130,Burke,330,Burke,13436
+1870,Georgia,130,Butts,350,Butts,3445
+1870,Georgia,130,Calhoun,370,Calhoun,3477
+1870,Georgia,130,Camden,390,Camden,3157
+1870,Georgia,130,Campbell,395,Campbell,2587
+1870,Georgia,130,Carroll,450,Carroll,1309
+1870,Georgia,130,Catoosa,470,Catoosa,616
+1870,Georgia,130,Charlton,490,Charlton,401
+1870,Georgia,130,Chatham,510,Chatham,24518
+1870,Georgia,130,Chattahoochee,530,Chattahoochee,3405
+1870,Georgia,130,Chattooga,550,Chattooga,1503
+1870,Georgia,130,Cherokee,570,Cherokee,1281
+1870,Georgia,130,Clarke,590,Clarke,6453
+1870,Georgia,130,Clay,610,Clay,2849
+1870,Georgia,130,Clayton,630,Clayton,1743
+1870,Georgia,130,Clinch,650,Clinch,507
+1870,Georgia,130,Cobb,670,Cobb,3217
+1870,Georgia,130,Coffee,690,Coffee,678
+1870,Georgia,130,Colquitt,710,Colquitt,137
+1870,Georgia,130,Columbia,730,Columbia,9449
+1870,Georgia,130,Coweta,770,Coweta,8019
+1870,Georgia,130,Crawford,790,Crawford,4273
+1870,Georgia,130,Dade,830,Dade,245
+1870,Georgia,130,Dawson,850,Dawson,337
+1870,Georgia,130,Decatur,870,Decatur,7718
+1870,Georgia,130,DeKalb,890,De Kalb,2662
+1870,Georgia,130,Dooly,930,Dooly,4855
+1870,Georgia,130,Dougherty,950,Dougherty,9424
+1870,Georgia,130,Early,990,Early,4172
+1870,Georgia,130,Echols,1010,Echols,465
+1870,Georgia,130,Effingham,1030,Effingham,1704
+1870,Georgia,130,Elbert,1050,Elbert,4863
+1870,Georgia,130,Emanuel,1070,Emanuel,1703
+1870,Georgia,130,Fannin,1110,Fannin,144
+1870,Georgia,130,Fayette,1130,Fayette,2538
+1870,Georgia,130,Floyd,1150,Floyd,5753
+1870,Georgia,130,Forsyth,1170,Forsyth,1121
+1870,Georgia,130,Franklin,1190,Franklin,1859
+1870,Georgia,130,Fulton,1210,Fulton,15282
+1870,Georgia,130,Gilmer,1230,Gilmer,117
+1870,Georgia,130,Glascock,1250,Glascock,819
+1870,Georgia,130,Glynn,1270,Glynn,3450
+1870,Georgia,130,Gordon,1290,Gordon,1536
+1870,Georgia,130,Greene,1330,Greene,8156
+1870,Georgia,130,Gwinnett,1350,Gwinnett,2159
+1870,Georgia,130,Habersham,1370,Habersham,949
+1870,Georgia,130,Hall,1390,Hall,1290
+1870,Georgia,130,Hancock,1410,Hancock,7672
+1870,Georgia,130,Haralson,1430,Haralson,319
+1870,Georgia,130,Harris,1450,Harris,7493
+1870,Georgia,130,Hart,1470,Hart,1942
+1870,Georgia,130,Heard,1490,Heard,2648
+1870,Georgia,130,Henry,1510,Henry,3833
+1870,Georgia,130,Houston,1530,Houston,15332
+1870,Georgia,130,Irwin,1550,Irwin,296
+1870,Georgia,130,Jackson,1570,Jackson,3710
+1870,Georgia,130,Jasper,1590,Jasper,6555
+1870,Georgia,130,Jefferson,1630,Jefferson,7943
+1870,Georgia,130,Johnson,1670,Johnson,915
+1870,Georgia,130,Jones,1690,Jones,6445
+1870,Georgia,130,Laurens,1750,Laurens,3654
+1870,Georgia,130,Lee,1770,Lee,7643
+1870,Georgia,130,Liberty,1790,Liberty,5260
+1870,Georgia,130,Lincoln,1810,Lincoln,3616
+1870,Georgia,130,Lowndes,1850,Lowndes,4045
+1870,Georgia,130,Lumpkin,1870,Lumpkin,462
+1870,Georgia,130,McIntosh,1910,Mcintosh,3288
+1870,Georgia,130,Macon,1930,Macon,7483
+1870,Georgia,130,Madison,1950,Madison,1581
+1870,Georgia,130,Marion,1970,Marion,3830
+1870,Georgia,130,Meriwether,1990,Meriwether,7369
+1870,Georgia,130,Miller,2010,Miller,956
+1870,Georgia,130,Milton,2015,Milton,466
+1870,Georgia,130,Mitchell,2050,Mitchell,2950
+1870,Georgia,130,Monroe,2070,Monroe,10804
+1870,Georgia,130,Montgomery,2090,Montgomery,1108
+1870,Georgia,130,Morgan,2110,Morgan,7058
+1870,Georgia,130,Murray,2130,Murray,757
+1870,Georgia,130,Muscogee,2150,Muscogee,9220
+1870,Georgia,130,Newton,2170,Newton,6014
+1870,Georgia,130,Oglethorpe,2210,Oglethorpe,7141
+1870,Georgia,130,Paulding,2230,Paulding,556
+1870,Georgia,130,Pickens,2270,Pickens,129
+1870,Georgia,130,Pierce,2290,Pierce,814
+1870,Georgia,130,Pike,2310,Pike,4906
+1870,Georgia,130,Polk,2330,Polk,2578
+1870,Georgia,130,Pulaski,2350,Pulaski,5984
+1870,Georgia,130,Putnam,2370,Putnam,7445
+1870,Georgia,130,Quitman,2390,Quitman,2377
+1870,Georgia,130,Rabun,2410,Rabun,119
+1870,Georgia,130,Randolph,2430,Randolph,5477
+1870,Georgia,130,Richmond,2450,Richmond,12565
+1870,Georgia,130,Schley,2490,Schley,2851
+1870,Georgia,130,Screven,2510,Screven,4888
+1870,Georgia,130,Spalding,2550,Spalding,4878
+1870,Georgia,130,Stewart,2590,Stewart,9100
+1870,Georgia,130,Sumter,2610,Sumter,10639
+1870,Georgia,130,Talbot,2630,Talbot,7152
+1870,Georgia,130,Taliaferro,2650,Taliaferro,2987
+1870,Georgia,130,Tattnall,2670,Tattnall,1280
+1870,Georgia,130,Taylor,2690,Taylor,2962
+1870,Georgia,130,Telfair,2710,Telfair,1145
+1870,Georgia,130,Terrell,2730,Terrell,5284
+1870,Georgia,130,Thomas,2750,Thomas,8363
+1870,Georgia,130,Towns,2810,Towns,155
+1870,Georgia,130,Troup,2850,Troup,11224
+1870,Georgia,130,Twiggs,2890,Twiggs,5632
+1870,Georgia,130,Union,2910,Union,114
+1870,Georgia,130,Upson,2930,Upson,4565
+1870,Georgia,130,Walker,2950,Walker,1529
+1870,Georgia,130,Walton,2970,Walton,4162
+1870,Georgia,130,Ware,2990,Ware,452
+1870,Georgia,130,Warren,3010,Warren,6260
+1870,Georgia,130,Washington,3030,Washington,8312
+1870,Georgia,130,Wayne,3050,Wayne,379
+1870,Georgia,130,Webster,3070,Webster,2238
+1870,Georgia,130,White,3110,White,564
+1870,Georgia,130,Whitfield,3130,Whitfield,1511
+1870,Georgia,130,Wilcox,3150,Wilcox,537
+1870,Georgia,130,Wilkes,3170,Wilkes,7827
+1870,Georgia,130,Wilkinson,3190,Wilkinson,4699
+1870,Georgia,130,Worth,3210,Worth,1105
+1880,Georgia,130,Appling,10,Appling,1192
+1880,Georgia,130,Baker,70,Baker,5565
+1880,Georgia,130,Baldwin,90,Baldwin,9294
+1880,Georgia,130,Banks,110,Banks,1507
+1880,Georgia,130,Bartow,150,Bartow,6271
+1880,Georgia,130,Berrien,190,Berrien,836
+1880,Georgia,130,Bibb,210,Bibb,15700
+1880,Georgia,130,Brooks,270,Brooks,6057
+1880,Georgia,130,Bryan,290,Bryan,2561
+1880,Georgia,130,Bulloch,310,Bulloch,2256
+1880,Georgia,130,Burke,330,Burke,21031
+1880,Georgia,130,Butts,350,Butts,4034
+1880,Georgia,130,Calhoun,370,Calhoun,4670
+1880,Georgia,130,Camden,390,Camden,4092
+1880,Georgia,130,Campbell,395,Campbell,3885
+1880,Georgia,130,Carroll,450,Carroll,2310
+1880,Georgia,130,Catoosa,470,Catoosa,612
+1880,Georgia,130,Charlton,490,Charlton,360
+1880,Georgia,130,Chatham,510,Chatham,27515
+1880,Georgia,130,Chattahoochee,530,Chattahoochee,3540
+1880,Georgia,130,Chattooga,550,Chattooga,2040
+1880,Georgia,130,Cherokee,570,Cherokee,1626
+1880,Georgia,130,Clarke,590,Clarke,6388
+1880,Georgia,130,Clay,610,Clay,3852
+1880,Georgia,130,Clayton,630,Clayton,3089
+1880,Georgia,130,Clinch,650,Clinch,838
+1880,Georgia,130,Cobb,670,Cobb,6012
+1880,Georgia,130,Coffee,690,Coffee,1042
+1880,Georgia,130,Colquitt,710,Colquitt,105
+1880,Georgia,130,Columbia,730,Columbia,7435
+1880,Georgia,130,Coweta,770,Coweta,11797
+1880,Georgia,130,Crawford,790,Crawford,4716
+1880,Georgia,130,Dade,830,Dade,1084
+1880,Georgia,130,Dawson,850,Dawson,356
+1880,Georgia,130,Decatur,870,Decatur,10183
+1880,Georgia,130,DeKalb,890,De Kalb,4543
+1880,Georgia,130,Dodge,910,Dodge,1852
+1880,Georgia,130,Dooly,930,Dooly,5828
+1880,Georgia,130,Dougherty,950,Dougherty,10670
+1880,Georgia,130,Douglas,970,Douglas,1471
+1880,Georgia,130,Early,990,Early,4596
+1880,Georgia,130,Echols,1010,Echols,500
+1880,Georgia,130,Effingham,1030,Effingham,2751
+1880,Georgia,130,Elbert,1050,Elbert,6872
+1880,Georgia,130,Emanuel,1070,Emanuel,3085
+1880,Georgia,130,Fannin,1110,Fannin,133
+1880,Georgia,130,Fayette,1130,Fayette,2863
+1880,Georgia,130,Floyd,1150,Floyd,9460
+1880,Georgia,130,Forsyth,1170,Forsyth,1487
+1880,Georgia,130,Franklin,1190,Franklin,2547
+1880,Georgia,130,Fulton,1210,Fulton,20842
+1880,Georgia,130,Gilmer,1230,Gilmer,126
+1880,Georgia,130,Glascock,1250,Glascock,1071
+1880,Georgia,130,Glynn,1270,Glynn,4300
+1880,Georgia,130,Gordon,1290,Gordon,1820
+1880,Georgia,130,Greene,1330,Greene,11974
+1880,Georgia,130,Gwinnett,1350,Gwinnett,3515
+1880,Georgia,130,Habersham,1370,Habersham,1361
+1880,Georgia,130,Hall,1390,Hall,2258
+1880,Georgia,130,Hancock,1410,Hancock,11943
+1880,Georgia,130,Haralson,1430,Haralson,153
+1880,Georgia,130,Harris,1450,Harris,9286
+1880,Georgia,130,Hart,1470,Hart,2882
+1880,Georgia,130,Heard,1490,Heard,3095
+1880,Georgia,130,Henry,1510,Henry,6229
+1880,Georgia,130,Houston,1530,Houston,16390
+1880,Georgia,130,Irwin,1550,Irwin,535
+1880,Georgia,130,Jackson,1570,Jackson,5157
+1880,Georgia,130,Jasper,1590,Jasper,7593
+1880,Georgia,130,Jefferson,1630,Jefferson,10090
+1880,Georgia,130,Johnson,1670,Johnson,1345
+1880,Georgia,130,Jones,1690,Jones,7860
+1880,Georgia,130,Laurens,1750,Laurens,4351
+1880,Georgia,130,Lee,1770,Lee,8837
+1880,Georgia,130,Liberty,1790,Liberty,7061
+1880,Georgia,130,Lincoln,1810,Lincoln,4158
+1880,Georgia,130,Lowndes,1850,Lowndes,5637
+1880,Georgia,130,Lumpkin,1870,Lumpkin,451
+1880,Georgia,130,McDuffie,1890,Mcduffie,6019
+1880,Georgia,130,McIntosh,1910,Mcintosh,4695
+1880,Georgia,130,Macon,1930,Macon,7387
+1880,Georgia,130,Madison,1950,Madison,2586
+1880,Georgia,130,Marion,1970,Marion,4304
+1880,Georgia,130,Meriwether,1990,Meriwether,9854
+1880,Georgia,130,Miller,2010,Miller,1393
+1880,Georgia,130,Milton,2015,Milton,777
+1880,Georgia,130,Mitchell,2050,Mitchell,5203
+1880,Georgia,130,Monroe,2070,Monroe,12115
+1880,Georgia,130,Montgomery,2090,Montgomery,1871
+1880,Georgia,130,Morgan,2110,Morgan,9782
+1880,Georgia,130,Murray,2130,Murray,906
+1880,Georgia,130,Muscogee,2150,Muscogee,10327
+1880,Georgia,130,Newton,2170,Newton,6883
+1880,Georgia,130,Oconee,2190,Oconee,3024
+1880,Georgia,130,Oglethorpe,2210,Oglethorpe,9931
+1880,Georgia,130,Paulding,2230,Paulding,984
+1880,Georgia,130,Pickens,2270,Pickens,145
+1880,Georgia,130,Pierce,2290,Pierce,1472
+1880,Georgia,130,Pike,2310,Pike,8069
+1880,Georgia,130,Polk,2330,Polk,4147
+1880,Georgia,130,Pulaski,2350,Pulaski,8225
+1880,Georgia,130,Putnam,2370,Putnam,11021
+1880,Georgia,130,Quitman,2390,Quitman,2619
+1880,Georgia,130,Rabun,2410,Rabun,197
+1880,Georgia,130,Randolph,2430,Randolph,7796
+1880,Georgia,130,Richmond,2450,Richmond,17464
+1880,Georgia,130,Rockdale,2470,Rockdale,2689
+1880,Georgia,130,Schley,2490,Schley,3073
+1880,Georgia,130,Screven,2510,Screven,6613
+1880,Georgia,130,Spalding,2550,Spalding,7146
+1880,Georgia,130,Stewart,2590,Stewart,9622
+1880,Georgia,130,Sumter,2610,Sumter,12189
+1880,Georgia,130,Talbot,2630,Talbot,9667
+1880,Georgia,130,Taliaferro,2650,Taliaferro,4722
+1880,Georgia,130,Tattnall,2670,Tattnall,1974
+1880,Georgia,130,Taylor,2690,Taylor,3827
+1880,Georgia,130,Telfair,2710,Telfair,2161
+1880,Georgia,130,Terrell,2730,Terrell,6183
+1880,Georgia,130,Thomas,2750,Thomas,12213
+1880,Georgia,130,Towns,2810,Towns,104
+1880,Georgia,130,Troup,2850,Troup,13970
+1880,Georgia,130,Twiggs,2890,Twiggs,6074
+1880,Georgia,130,Union,2910,Union,110
+1880,Georgia,130,Upson,2930,Upson,6267
+1880,Georgia,130,Walker,2950,Walker,1563
+1880,Georgia,130,Walton,2970,Walton,6301
+1880,Georgia,130,Ware,2990,Ware,1144
+1880,Georgia,130,Warren,3010,Warren,6846
+1880,Georgia,130,Washington,3030,Washington,12515
+1880,Georgia,130,Wayne,3050,Wayne,1920
+1880,Georgia,130,Webster,3070,Webster,2570
+1880,Georgia,130,White,3110,White,590
+1880,Georgia,130,Whitfield,3130,Whitfield,2210
+1880,Georgia,130,Wilcox,3150,Wilcox,698
+1880,Georgia,130,Wilkes,3170,Wilkes,10812
+1880,Georgia,130,Wilkinson,3190,Wilkinson,5511
+1880,Georgia,130,Worth,3210,Worth,1824
+1890,Georgia,130,Appling,10,Appling,2462
+1890,Georgia,130,Baker,70,Baker,4549
+1890,Georgia,130,Baldwin,90,Baldwin,9343
+1890,Georgia,130,Banks,110,Banks,1563
+1890,Georgia,130,Bartow,150,Bartow,6041
+1890,Georgia,130,Berrien,190,Berrien,2417
+1890,Georgia,130,Bibb,210,Bibb,23336
+1890,Georgia,130,Brooks,270,Brooks,7637
+1890,Georgia,130,Bryan,290,Bryan,2687
+1890,Georgia,130,Bulloch,310,Bulloch,4689
+1890,Georgia,130,Burke,330,Burke,22680
+1890,Georgia,130,Butts,350,Butts,5398
+1890,Georgia,130,Calhoun,370,Calhoun,6199
+1890,Georgia,130,Camden,390,Camden,4137
+1890,Georgia,130,Campbell,395,Campbell,3493
+1890,Georgia,130,Carroll,450,Carroll,3851
+1890,Georgia,130,Catoosa,470,Catoosa,636
+1890,Georgia,130,Charlton,490,Charlton,870
+1890,Georgia,130,Chatham,510,Chatham,34757
+1890,Georgia,130,Chattahoochee,530,Chattahoochee,3065
+1890,Georgia,130,Chattooga,550,Chattooga,1998
+1890,Georgia,130,Cherokee,570,Cherokee,1508
+1890,Georgia,130,Clarke,590,Clarke,8111
+1890,Georgia,130,Clay,610,Clay,4815
+1890,Georgia,130,Clayton,630,Clayton,3075
+1890,Georgia,130,Clinch,650,Clinch,2360
+1890,Georgia,130,Cobb,670,Cobb,6774
+1890,Georgia,130,Coffee,690,Coffee,3858
+1890,Georgia,130,Colquitt,710,Colquitt,477
+1890,Georgia,130,Columbia,730,Columbia,8038
+1890,Georgia,130,Coweta,770,Coweta,12612
+1890,Georgia,130,Crawford,790,Crawford,5156
+1890,Georgia,130,Dade,830,Dade,1093
+1890,Georgia,130,Dawson,850,Dawson,259
+1890,Georgia,130,Decatur,870,Decatur,10811
+1890,Georgia,130,DeKalb,890,De Kalb,5974
+1890,Georgia,130,Dodge,910,Dodge,5309
+1890,Georgia,130,Dooly,930,Dooly,8914
+1890,Georgia,130,Dougherty,950,Dougherty,10231
+1890,Georgia,130,Douglas,970,Douglas,1801
+1890,Georgia,130,Early,990,Early,6122
+1890,Georgia,130,Echols,1010,Echols,1020
+1890,Georgia,130,Effingham,1030,Effingham,2210
+1890,Georgia,130,Elbert,1050,Elbert,7884
+1890,Georgia,130,Emanuel,1070,Emanuel,5306
+1890,Georgia,130,Fannin,1110,Fannin,112
+1890,Georgia,130,Fayette,1130,Fayette,3074
+1890,Georgia,130,Floyd,1150,Floyd,10414
+1890,Georgia,130,Forsyth,1170,Forsyth,1288
+1890,Georgia,130,Franklin,1190,Franklin,3298
+1890,Georgia,130,Fulton,1210,Fulton,35397
+1890,Georgia,130,Gilmer,1230,Gilmer,69
+1890,Georgia,130,Glascock,1250,Glascock,1168
+1890,Georgia,130,Glynn,1270,Glynn,7741
+1890,Georgia,130,Gordon,1290,Gordon,1727
+1890,Georgia,130,Greene,1330,Greene,11719
+1890,Georgia,130,Gwinnett,1350,Gwinnett,2996
+1890,Georgia,130,Habersham,1370,Habersham,1589
+1890,Georgia,130,Hall,1390,Hall,2767
+1890,Georgia,130,Hancock,1410,Hancock,12410
+1890,Georgia,130,Haralson,1430,Haralson,1117
+1890,Georgia,130,Harris,1450,Harris,10797
+1890,Georgia,130,Hart,1470,Hart,2957
+1890,Georgia,130,Heard,1490,Heard,3342
+1890,Georgia,130,Henry,1510,Henry,7591
+1890,Georgia,130,Houston,1530,Houston,16341
+1890,Georgia,130,Irwin,1550,Irwin,2075
+1890,Georgia,130,Jackson,1570,Jackson,5396
+1890,Georgia,130,Jasper,1590,Jasper,8487
+1890,Georgia,130,Jefferson,1630,Jefferson,10763
+1890,Georgia,130,Johnson,1670,Johnson,1456
+1890,Georgia,130,Jones,1690,Jones,8778
+1890,Georgia,130,Laurens,1750,Laurens,6093
+1890,Georgia,130,Lee,1770,Lee,7642
+1890,Georgia,130,Liberty,1790,Liberty,8673
+1890,Georgia,130,Lincoln,1810,Lincoln,3673
+1890,Georgia,130,Lowndes,1850,Lowndes,7974
+1890,Georgia,130,Lumpkin,1870,Lumpkin,414
+1890,Georgia,130,McDuffie,1890,Mcduffie,5522
+1890,Georgia,130,McIntosh,1910,Mcintosh,5212
+1890,Georgia,130,Macon,1930,Macon,9181
+1890,Georgia,130,Madison,1950,Madison,3662
+1890,Georgia,130,Marion,1970,Marion,4261
+1890,Georgia,130,Meriwether,1990,Meriwether,11538
+1890,Georgia,130,Miller,2010,Miller,1574
+1890,Georgia,130,Milton,2015,Milton,672
+1890,Georgia,130,Mitchell,2050,Mitchell,6106
+1890,Georgia,130,Monroe,2070,Monroe,12516
+1890,Georgia,130,Montgomery,2090,Montgomery,3658
+1890,Georgia,130,Morgan,2110,Morgan,10997
+1890,Georgia,130,Murray,2130,Murray,484
+1890,Georgia,130,Muscogee,2150,Muscogee,15362
+1890,Georgia,130,Newton,2170,Newton,7164
+1890,Georgia,130,Oconee,2190,Oconee,3832
+1890,Georgia,130,Oglethorpe,2210,Oglethorpe,11264
+1890,Georgia,130,Paulding,2230,Paulding,1505
+1890,Georgia,130,Pickens,2270,Pickens,349
+1890,Georgia,130,Pierce,2290,Pierce,1983
+1890,Georgia,130,Pike,2310,Pike,8077
+1890,Georgia,130,Polk,2330,Polk,4654
+1890,Georgia,130,Pulaski,2350,Pulaski,10001
+1890,Georgia,130,Putnam,2370,Putnam,10903
+1890,Georgia,130,Quitman,2390,Quitman,3050
+1890,Georgia,130,Rabun,2410,Rabun,166
+1890,Georgia,130,Randolph,2430,Randolph,9473
+1890,Georgia,130,Richmond,2450,Richmond,22818
+1890,Georgia,130,Rockdale,2470,Rockdale,2686
+1890,Georgia,130,Schley,2490,Schley,3205
+1890,Georgia,130,Screven,2510,Screven,7507
+1890,Georgia,130,Spalding,2550,Spalding,7281
+1890,Georgia,130,Stewart,2590,Stewart,11484
+1890,Georgia,130,Sumter,2610,Sumter,15098
+1890,Georgia,130,Talbot,2630,Talbot,9239
+1890,Georgia,130,Taliaferro,2650,Taliaferro,4827
+1890,Georgia,130,Tattnall,2670,Tattnall,3115
+1890,Georgia,130,Taylor,2690,Taylor,4068
+1890,Georgia,130,Telfair,2710,Telfair,2335
+1890,Georgia,130,Terrell,2730,Terrell,9169
+1890,Georgia,130,Thomas,2750,Thomas,15028
+1890,Georgia,130,Towns,2810,Towns,74
+1890,Georgia,130,Troup,2850,Troup,13661
+1890,Georgia,130,Twiggs,2890,Twiggs,5447
+1890,Georgia,130,Union,2910,Union,165
+1890,Georgia,130,Upson,2930,Upson,6123
+1890,Georgia,130,Walker,2950,Walker,1932
+1890,Georgia,130,Walton,2970,Walton,7155
+1890,Georgia,130,Ware,2990,Ware,3619
+1890,Georgia,130,Warren,3010,Warren,6756
+1890,Georgia,130,Washington,3030,Washington,14925
+1890,Georgia,130,Wayne,3050,Wayne,2195
+1890,Georgia,130,Webster,3070,Webster,3272
+1890,Georgia,130,White,3110,White,662
+1890,Georgia,130,Whitfield,3130,Whitfield,1930
+1890,Georgia,130,Wilcox,3150,Wilcox,3155
+1890,Georgia,130,Wilkes,3170,Wilkes,12464
+1890,Georgia,130,Wilkinson,3190,Wilkinson,5214
+1890,Georgia,130,Worth,3210,Worth,4176
+1900,Georgia,130,Appling,10,Appling,3513
+1900,Georgia,130,Baker,70,Baker,4770
+1900,Georgia,130,Baldwin,90,Baldwin,11256
+1900,Georgia,130,Banks,110,Banks,2097
+1900,Georgia,130,Bartow,150,Bartow,6187
+1900,Georgia,130,Berrien,190,Berrien,5937
+1900,Georgia,130,Bibb,210,Bibb,27384
+1900,Georgia,130,Brooks,270,Brooks,10904
+1900,Georgia,130,Bryan,290,Bryan,3153
+1900,Georgia,130,Bulloch,310,Bulloch,9164
+1900,Georgia,130,Burke,330,Burke,24643
+1900,Georgia,130,Butts,350,Butts,6807
+1900,Georgia,130,Calhoun,370,Calhoun,6875
+1900,Georgia,130,Camden,390,Camden,5246
+1900,Georgia,130,Campbell,395,Campbell,3168
+1900,Georgia,130,Carroll,450,Carroll,5036
+1900,Georgia,130,Catoosa,470,Catoosa,482
+1900,Georgia,130,Charlton,490,Charlton,743
+1900,Georgia,130,Chatham,510,Chatham,41257
+1900,Georgia,130,Chattahoochee,530,Chattahoochee,3938
+1900,Georgia,130,Chattooga,550,Chattooga,2238
+1900,Georgia,130,Cherokee,570,Cherokee,1285
+1900,Georgia,130,Clarke,590,Clarke,9476
+1900,Georgia,130,Clay,610,Clay,5703
+1900,Georgia,130,Clayton,630,Clayton,4026
+1900,Georgia,130,Clinch,650,Clinch,3590
+1900,Georgia,130,Cobb,670,Cobb,7328
+1900,Georgia,130,Coffee,690,Coffee,6611
+1900,Georgia,130,Colquitt,710,Colquitt,3602
+1900,Georgia,130,Columbia,730,Columbia,7753
+1900,Georgia,130,Coweta,770,Coweta,14220
+1900,Georgia,130,Crawford,790,Crawford,5818
+1900,Georgia,130,Dade,830,Dade,438
+1900,Georgia,130,Dawson,850,Dawson,171
+1900,Georgia,130,Decatur,870,Decatur,15778
+1900,Georgia,130,DeKalb,890,De Kalb,7044
+1900,Georgia,130,Dodge,910,Dodge,5705
+1900,Georgia,130,Dooly,930,Dooly,14684
+1900,Georgia,130,Dougherty,950,Dougherty,11228
+1900,Georgia,130,Douglas,970,Douglas,2155
+1900,Georgia,130,Early,990,Early,8965
+1900,Georgia,130,Echols,1010,Echols,991
+1900,Georgia,130,Effingham,1030,Effingham,3704
+1900,Georgia,130,Elbert,1050,Elbert,9792
+1900,Georgia,130,Emanuel,1070,Emanuel,8406
+1900,Georgia,130,Fannin,1110,Fannin,296
+1900,Georgia,130,Fayette,1130,Fayette,3561
+1900,Georgia,130,Floyd,1150,Floyd,11476
+1900,Georgia,130,Forsyth,1170,Forsyth,1083
+1900,Georgia,130,Franklin,1190,Franklin,4204
+1900,Georgia,130,Fulton,1210,Fulton,45532
+1900,Georgia,130,Gilmer,1230,Gilmer,77
+1900,Georgia,130,Glascock,1250,Glascock,1515
+1900,Georgia,130,Glynn,1270,Glynn,9104
+1900,Georgia,130,Gordon,1290,Gordon,1631
+1900,Georgia,130,Greene,1330,Greene,11217
+1900,Georgia,130,Gwinnett,1350,Gwinnett,4143
+1900,Georgia,130,Habersham,1370,Habersham,1792
+1900,Georgia,130,Hall,1390,Hall,3272
+1900,Georgia,130,Hancock,1410,Hancock,13628
+1900,Georgia,130,Haralson,1430,Haralson,1639
+1900,Georgia,130,Harris,1450,Harris,12186
+1900,Georgia,130,Hart,1470,Hart,4025
+1900,Georgia,130,Heard,1490,Heard,4014
+1900,Georgia,130,Henry,1510,Henry,9389
+1900,Georgia,130,Houston,1530,Houston,17006
+1900,Georgia,130,Irwin,1550,Irwin,4680
+1900,Georgia,130,Jackson,1570,Jackson,7606
+1900,Georgia,130,Jasper,1590,Jasper,9645
+1900,Georgia,130,Jefferson,1630,Jefferson,11578
+1900,Georgia,130,Johnson,1670,Johnson,4531
+1900,Georgia,130,Jones,1690,Jones,9450
+1900,Georgia,130,Laurens,1750,Laurens,11338
+1900,Georgia,130,Lee,1770,Lee,8837
+1900,Georgia,130,Liberty,1790,Liberty,8614
+1900,Georgia,130,Lincoln,1810,Lincoln,4273
+1900,Georgia,130,Lowndes,1850,Lowndes,10688
+1900,Georgia,130,Lumpkin,1870,Lumpkin,482
+1900,Georgia,130,McDuffie,1890,Mcduffie,6143
+1900,Georgia,130,McIntosh,1910,Mcintosh,5081
+1900,Georgia,130,Macon,1930,Macon,9791
+1900,Georgia,130,Madison,1950,Madison,3885
+1900,Georgia,130,Marion,1970,Marion,5849
+1900,Georgia,130,Meriwether,1990,Meriwether,13817
+1900,Georgia,130,Miller,2010,Miller,2708
+1900,Georgia,130,Milton,2015,Milton,763
+1900,Georgia,130,Mitchell,2050,Mitchell,7989
+1900,Georgia,130,Monroe,2070,Monroe,13865
+1900,Georgia,130,Montgomery,2090,Montgomery,6706
+1900,Georgia,130,Morgan,2110,Morgan,10606
+1900,Georgia,130,Murray,2130,Murray,521
+1900,Georgia,130,Muscogee,2150,Muscogee,15597
+1900,Georgia,130,Newton,2170,Newton,8144
+1900,Georgia,130,Oconee,2190,Oconee,4413
+1900,Georgia,130,Oglethorpe,2210,Oglethorpe,12243
+1900,Georgia,130,Paulding,2230,Paulding,1345
+1900,Georgia,130,Pickens,2270,Pickens,415
+1900,Georgia,130,Pierce,2290,Pierce,2184
+1900,Georgia,130,Pike,2310,Pike,9602
+1900,Georgia,130,Polk,2330,Polk,4916
+1900,Georgia,130,Pulaski,2350,Pulaski,11029
+1900,Georgia,130,Putnam,2370,Putnam,10057
+1900,Georgia,130,Quitman,2390,Quitman,3447
+1900,Georgia,130,Rabun,2410,Rabun,181
+1900,Georgia,130,Randolph,2430,Randolph,11297
+1900,Georgia,130,Richmond,2450,Richmond,26255
+1900,Georgia,130,Rockdale,2470,Rockdale,3096
+1900,Georgia,130,Schley,2490,Schley,3583
+1900,Georgia,130,Screven,2510,Screven,10946
+1900,Georgia,130,Spalding,2550,Spalding,9154
+1900,Georgia,130,Stewart,2590,Stewart,11837
+1900,Georgia,130,Sumter,2610,Sumter,18813
+1900,Georgia,130,Talbot,2630,Talbot,8539
+1900,Georgia,130,Taliaferro,2650,Taliaferro,5521
+1900,Georgia,130,Tattnall,2670,Tattnall,7113
+1900,Georgia,130,Taylor,2690,Taylor,5026
+1900,Georgia,130,Telfair,2710,Telfair,4126
+1900,Georgia,130,Terrell,2730,Terrell,13349
+1900,Georgia,130,Thomas,2750,Thomas,17450
+1900,Georgia,130,Towns,2810,Towns,71
+1900,Georgia,130,Troup,2850,Troup,15332
+1900,Georgia,130,Twiggs,2890,Twiggs,5805
+1900,Georgia,130,Union,2910,Union,128
+1900,Georgia,130,Upson,2930,Upson,7481
+1900,Georgia,130,Walker,2950,Walker,2464
+1900,Georgia,130,Walton,2970,Walton,8341
+1900,Georgia,130,Ware,2990,Ware,5109
+1900,Georgia,130,Warren,3010,Warren,7621
+1900,Georgia,130,Washington,3030,Washington,17422
+1900,Georgia,130,Wayne,3050,Wayne,2227
+1900,Georgia,130,Webster,3070,Webster,4114
+1900,Georgia,130,White,3110,White,600
+1900,Georgia,130,Whitfield,3130,Whitfield,1824
+1900,Georgia,130,Wilcox,3150,Wilcox,4204
+1900,Georgia,130,Wilkes,3170,Wilkes,14442
+1900,Georgia,130,Wilkinson,3190,Wilkinson,6031
+1900,Georgia,130,Worth,3210,Worth,8412
+1910,Georgia,130,Appling,10,Appling,2863
+1910,Georgia,130,Baker,70,Baker,5718
+1910,Georgia,130,Baldwin,90,Baldwin,11005
+1910,Georgia,130,Banks,110,Banks,2321
+1910,Georgia,130,Bartow,150,Bartow,6348
+1910,Georgia,130,Ben Hill,170,Ben Hill,4901
+1910,Georgia,130,Berrien,190,Berrien,6263
+1910,Georgia,130,Bibb,210,Bibb,27481
+1910,Georgia,130,Brooks,270,Brooks,14086
+1910,Georgia,130,Bryan,290,Bryan,3337
+1910,Georgia,130,Bulloch,310,Bulloch,10591
+1910,Georgia,130,Burke,330,Burke,22462
+1910,Georgia,130,Butts,350,Butts,7200
+1910,Georgia,130,Calhoun,370,Calhoun,8361
+1910,Georgia,130,Camden,390,Camden,5113
+1910,Georgia,130,Campbell,395,Campbell,3616
+1910,Georgia,130,Carroll,450,Carroll,6383
+1910,Georgia,130,Catoosa,470,Catoosa,476
+1910,Georgia,130,Charlton,490,Charlton,1189
+1910,Georgia,130,Chatham,510,Chatham,43981
+1910,Georgia,130,Chattahoochee,530,Chattahoochee,3864
+1910,Georgia,130,Chattooga,550,Chattooga,2454
+1910,Georgia,130,Cherokee,570,Cherokee,1168
+1910,Georgia,130,Clarke,590,Clarke,11767
+1910,Georgia,130,Clay,610,Clay,6569
+1910,Georgia,130,Clayton,630,Clayton,4632
+1910,Georgia,130,Clinch,650,Clinch,3378
+1910,Georgia,130,Cobb,670,Cobb,7418
+1910,Georgia,130,Coffee,690,Coffee,7734
+1910,Georgia,130,Colquitt,710,Colquitt,4617
+1910,Georgia,130,Columbia,730,Columbia,9198
+1910,Georgia,130,Coweta,770,Coweta,16267
+1910,Georgia,130,Crawford,790,Crawford,4922
+1910,Georgia,130,Crisp,810,Crisp,8616
+1910,Georgia,130,Dade,830,Dade,291
+1910,Georgia,130,Dawson,850,Dawson,152
+1910,Georgia,130,Decatur,870,Decatur,16738
+1910,Georgia,130,DeKalb,890,De Kalb,8362
+1910,Georgia,130,Dodge,910,Dodge,8460
+1910,Georgia,130,Dooly,930,Dooly,12728
+1910,Georgia,130,Dougherty,950,Dougherty,12049
+1910,Georgia,130,Douglas,970,Douglas,2171
+1910,Georgia,130,Early,990,Early,11273
+1910,Georgia,130,Echols,1010,Echols,990
+1910,Georgia,130,Effingham,1030,Effingham,4278
+1910,Georgia,130,Elbert,1050,Elbert,12082
+1910,Georgia,130,Emanuel,1070,Emanuel,9990
+1910,Georgia,130,Fannin,1110,Fannin,162
+1910,Georgia,130,Fayette,1130,Fayette,3815
+1910,Georgia,130,Floyd,1150,Floyd,10482
+1910,Georgia,130,Forsyth,1170,Forsyth,1098
+1910,Georgia,130,Franklin,1190,Franklin,3974
+1910,Georgia,130,Fulton,1210,Fulton,57985
+1910,Georgia,130,Gilmer,1230,Gilmer,71
+1910,Georgia,130,Glascock,1250,Glascock,1507
+1910,Georgia,130,Glynn,1270,Glynn,9774
+1910,Georgia,130,Gordon,1290,Gordon,1356
+1910,Georgia,130,Grady,1310,Grady,7403
+1910,Georgia,130,Greene,1330,Greene,11636
+1910,Georgia,130,Gwinnett,1350,Gwinnett,4431
+1910,Georgia,130,Habersham,1370,Habersham,711
+1910,Georgia,130,Hall,1390,Hall,4030
+1910,Georgia,130,Hancock,1410,Hancock,14268
+1910,Georgia,130,Haralson,1430,Haralson,2027
+1910,Georgia,130,Harris,1450,Harris,12865
+1910,Georgia,130,Hart,1470,Hart,5080
+1910,Georgia,130,Heard,1490,Heard,3756
+1910,Georgia,130,Henry,1510,Henry,10184
+1910,Georgia,130,Houston,1530,Houston,17388
+1910,Georgia,130,Irwin,1550,Irwin,4916
+1910,Georgia,130,Jackson,1570,Jackson,8613
+1910,Georgia,130,Jasper,1590,Jasper,11484
+1910,Georgia,130,Jeff Davis,1610,Jeff Davis,1593
+1910,Georgia,130,Jefferson,1630,Jefferson,12979
+1910,Georgia,130,Jenkins,1650,Jenkins,7296
+1910,Georgia,130,Johnson,1670,Johnson,5557
+1910,Georgia,130,Jones,1690,Jones,9288
+1910,Georgia,130,Laurens,1750,Laurens,17544
+1910,Georgia,130,Lee,1770,Lee,9992
+1910,Georgia,130,Liberty,1790,Liberty,8355
+1910,Georgia,130,Lincoln,1810,Lincoln,5175
+1910,Georgia,130,Lowndes,1850,Lowndes,12955
+1910,Georgia,130,Lumpkin,1870,Lumpkin,320
+1910,Georgia,130,McDuffie,1890,Mcduffie,5985
+1910,Georgia,130,McIntosh,1910,Mcintosh,4978
+1910,Georgia,130,Macon,1930,Macon,10581
+1910,Georgia,130,Madison,1950,Madison,5149
+1910,Georgia,130,Marion,1970,Marion,5364
+1910,Georgia,130,Meriwether,1990,Meriwether,14730
+1910,Georgia,130,Miller,2010,Miller,3257
+1910,Georgia,130,Milton,2015,Milton,718
+1910,Georgia,130,Mitchell,2050,Mitchell,11649
+1910,Georgia,130,Monroe,2070,Monroe,13656
+1910,Georgia,130,Montgomery,2090,Montgomery,7310
+1910,Georgia,130,Morgan,2110,Morgan,13414
+1910,Georgia,130,Murray,2130,Murray,402
+1910,Georgia,130,Muscogee,2150,Muscogee,16747
+1910,Georgia,130,Newton,2170,Newton,9458
+1910,Georgia,130,Oconee,2190,Oconee,5162
+1910,Georgia,130,Oglethorpe,2210,Oglethorpe,11338
+1910,Georgia,130,Paulding,2230,Paulding,1588
+1910,Georgia,130,Pickens,2270,Pickens,440
+1910,Georgia,130,Pierce,2290,Pierce,2742
+1910,Georgia,130,Pike,2310,Pike,10159
+1910,Georgia,130,Polk,2330,Polk,5697
+1910,Georgia,130,Pulaski,2350,Pulaski,13504
+1910,Georgia,130,Putnam,2370,Putnam,10178
+1910,Georgia,130,Quitman,2390,Quitman,3588
+1910,Georgia,130,Rabun,2410,Rabun,156
+1910,Georgia,130,Randolph,2430,Randolph,12986
+1910,Georgia,130,Richmond,2450,Richmond,28390
+1910,Georgia,130,Rockdale,2470,Rockdale,3592
+1910,Georgia,130,Schley,2490,Schley,3291
+1910,Georgia,130,Screven,2510,Screven,12165
+1910,Georgia,130,Spalding,2550,Spalding,10060
+1910,Georgia,130,Stephens,2570,Stephens,2222
+1910,Georgia,130,Stewart,2590,Stewart,10381
+1910,Georgia,130,Sumter,2610,Sumter,21243
+1910,Georgia,130,Talbot,2630,Talbot,8230
+1910,Georgia,130,Taliaferro,2650,Taliaferro,6450
+1910,Georgia,130,Tattnall,2670,Tattnall,5841
+1910,Georgia,130,Taylor,2690,Taylor,5379
+1910,Georgia,130,Telfair,2710,Telfair,4761
+1910,Georgia,130,Terrell,2730,Terrell,16607
+1910,Georgia,130,Thomas,2750,Thomas,17086
+1910,Georgia,130,Tift,2770,Tift,3777
+1910,Georgia,130,Toombs,2790,Toombs,3411
+1910,Georgia,130,Towns,2810,Towns,15
+1910,Georgia,130,Troup,2850,Troup,15399
+1910,Georgia,130,Turner,2870,Turner,4018
+1910,Georgia,130,Twiggs,2890,Twiggs,7396
+1910,Georgia,130,Union,2910,Union,64
+1910,Georgia,130,Upson,2930,Upson,6998
+1910,Georgia,130,Walker,2950,Walker,2451
+1910,Georgia,130,Walton,2970,Walton,10070
+1910,Georgia,130,Ware,2990,Ware,8914
+1910,Georgia,130,Warren,3010,Warren,8132
+1910,Georgia,130,Washington,3030,Washington,17393
+1910,Georgia,130,Wayne,3050,Wayne,3309
+1910,Georgia,130,Webster,3070,Webster,4182
+1910,Georgia,130,White,3110,White,397
+1910,Georgia,130,Whitfield,3130,Whitfield,1719
+1910,Georgia,130,Wilcox,3150,Wilcox,5505
+1910,Georgia,130,Wilkes,3170,Wilkes,16598
+1910,Georgia,130,Wilkinson,3190,Wilkinson,5155
+1910,Georgia,130,Worth,3210,Worth,9517
+1920,Georgia,130,Appling,10,Appling,2312
+1920,Georgia,130,Atkinson,30,Atkinson,2479
+1920,Georgia,130,Bacon,50,Bacon,852
+1920,Georgia,130,Baker,70,Baker,5614
+1920,Georgia,130,Baldwin,90,Baldwin,11019
+1920,Georgia,130,Banks,110,Banks,2548
+1920,Georgia,130,Barrow,130,Barrow,3051
+1920,Georgia,130,Bartow,150,Bartow,5665
+1920,Georgia,130,Ben Hill,170,Ben Hill,5560
+1920,Georgia,130,Berrien,190,Berrien,4005
+1920,Georgia,130,Bibb,210,Bibb,33025
+1920,Georgia,130,Bleckley,230,Bleckley,4615
+1920,Georgia,130,Brooks,270,Brooks,14247
+1920,Georgia,130,Bryan,290,Bryan,2920
+1920,Georgia,130,Bulloch,310,Bulloch,10034
+1920,Georgia,130,Burke,330,Burke,24775
+1920,Georgia,130,Butts,350,Butts,6586
+1920,Georgia,130,Calhoun,370,Calhoun,7020
+1920,Georgia,130,Camden,390,Camden,4273
+1920,Georgia,130,Campbell,395,Campbell,4153
+1920,Georgia,130,Candler,430,Candler,3737
+1920,Georgia,130,Carroll,450,Carroll,7265
+1920,Georgia,130,Catoosa,470,Catoosa,341
+1920,Georgia,130,Charlton,490,Charlton,948
+1920,Georgia,130,Chatham,510,Chatham,49238
+1920,Georgia,130,Chattahoochee,530,Chattahoochee,1968
+1920,Georgia,130,Chattooga,550,Chattooga,2299
+1920,Georgia,130,Cherokee,570,Cherokee,890
+1920,Georgia,130,Clarke,590,Clarke,12191
+1920,Georgia,130,Clay,610,Clay,5074
+1920,Georgia,130,Clayton,630,Clayton,5006
+1920,Georgia,130,Clinch,650,Clinch,2957
+1920,Georgia,130,Cobb,670,Cobb,6645
+1920,Georgia,130,Coffee,690,Coffee,5902
+1920,Georgia,130,Colquitt,710,Colquitt,8457
+1920,Georgia,130,Columbia,730,Columbia,8251
+1920,Georgia,130,Cook,750,Cook,3276
+1920,Georgia,130,Coweta,770,Coweta,15599
+1920,Georgia,130,Crawford,790,Crawford,5198
+1920,Georgia,130,Crisp,810,Crisp,9849
+1920,Georgia,130,Dade,830,Dade,230
+1920,Georgia,130,Dawson,850,Dawson,0
+1920,Georgia,130,Decatur,870,Decatur,16490
+1920,Georgia,130,DeKalb,890,De Kalb,9900
+1920,Georgia,130,Dodge,910,Dodge,9015
+1920,Georgia,130,Dooly,930,Dooly,12279
+1920,Georgia,130,Dougherty,950,Dougherty,13370
+1920,Georgia,130,Douglas,970,Douglas,2951
+1920,Georgia,130,Early,990,Early,11090
+1920,Georgia,130,Echols,1010,Echols,1046
+1920,Georgia,130,Effingham,1030,Effingham,4010
+1920,Georgia,130,Elbert,1050,Elbert,10726
+1920,Georgia,130,Emanuel,1070,Emanuel,10951
+1920,Georgia,130,Evans,1090,Evans,2412
+1920,Georgia,130,Fannin,1110,Fannin,88
+1920,Georgia,130,Fayette,1130,Fayette,4153
+1920,Georgia,130,Floyd,1150,Floyd,9240
+1920,Georgia,130,Forsyth,1170,Forsyth,30
+1920,Georgia,130,Franklin,1190,Franklin,4461
+1920,Georgia,130,Fulton,1210,Fulton,70200
+1920,Georgia,130,Gilmer,1230,Gilmer,38
+1920,Georgia,130,Glascock,1250,Glascock,1201
+1920,Georgia,130,Glynn,1270,Glynn,9850
+1920,Georgia,130,Gordon,1290,Gordon,1314
+1920,Georgia,130,Grady,1310,Grady,7354
+1920,Georgia,130,Greene,1330,Greene,11200
+1920,Georgia,130,Gwinnett,1350,Gwinnett,4233
+1920,Georgia,130,Habersham,1370,Habersham,615
+1920,Georgia,130,Hall,1390,Hall,3493
+1920,Georgia,130,Hancock,1410,Hancock,13221
+1920,Georgia,130,Haralson,1430,Haralson,2022
+1920,Georgia,130,Harris,1450,Harris,11209
+1920,Georgia,130,Hart,1470,Hart,5624
+1920,Georgia,130,Heard,1490,Heard,3370
+1920,Georgia,130,Henry,1510,Henry,10439
+1920,Georgia,130,Houston,1530,Houston,14508
+1920,Georgia,130,Irwin,1550,Irwin,5719
+1920,Georgia,130,Jackson,1570,Jackson,6982
+1920,Georgia,130,Jasper,1590,Jasper,11618
+1920,Georgia,130,Jeff Davis,1610,Jeff Davis,1615
+1920,Georgia,130,Jefferson,1630,Jefferson,13148
+1920,Georgia,130,Jenkins,1650,Jenkins,8719
+1920,Georgia,130,Johnson,1670,Johnson,5665
+1920,Georgia,130,Jones,1690,Jones,9403
+1920,Georgia,130,Laurens,1750,Laurens,18601
+1920,Georgia,130,Lee,1770,Lee,8977
+1920,Georgia,130,Liberty,1790,Liberty,7593
+1920,Georgia,130,Lincoln,1810,Lincoln,5152
+1920,Georgia,130,Lowndes,1850,Lowndes,13535
+1920,Georgia,130,Lumpkin,1870,Lumpkin,217
+1920,Georgia,130,McDuffie,1890,Mcduffie,6140
+1920,Georgia,130,McIntosh,1910,Mcintosh,3803
+1920,Georgia,130,Macon,1930,Macon,12027
+1920,Georgia,130,Madison,1950,Madison,5269
+1920,Georgia,130,Marion,1970,Marion,4097
+1920,Georgia,130,Meriwether,1990,Meriwether,14594
+1920,Georgia,130,Miller,2010,Miller,3702
+1920,Georgia,130,Milton,2015,Milton,477
+1920,Georgia,130,Mitchell,2050,Mitchell,14067
+1920,Georgia,130,Monroe,2070,Monroe,12763
+1920,Georgia,130,Montgomery,2090,Montgomery,4348
+1920,Georgia,130,Morgan,2110,Morgan,12886
+1920,Georgia,130,Murray,2130,Murray,432
+1920,Georgia,130,Muscogee,2150,Muscogee,16251
+1920,Georgia,130,Newton,2170,Newton,10180
+1920,Georgia,130,Oconee,2190,Oconee,4719
+1920,Georgia,130,Oglethorpe,2210,Oglethorpe,11497
+1920,Georgia,130,Paulding,2230,Paulding,1607
+1920,Georgia,130,Pickens,2270,Pickens,324
+1920,Georgia,130,Pierce,2290,Pierce,2700
+1920,Georgia,130,Pike,2310,Pike,10794
+1920,Georgia,130,Polk,2330,Polk,4905
+1920,Georgia,130,Pulaski,2350,Pulaski,7164
+1920,Georgia,130,Putnam,2370,Putnam,10421
+1920,Georgia,130,Quitman,2390,Quitman,2430
+1920,Georgia,130,Rabun,2410,Rabun,289
+1920,Georgia,130,Randolph,2430,Randolph,11009
+1920,Georgia,130,Richmond,2450,Richmond,28639
+1920,Georgia,130,Rockdale,2470,Rockdale,3534
+1920,Georgia,130,Schley,2490,Schley,3099
+1920,Georgia,130,Screven,2510,Screven,13850
+1920,Georgia,130,Spalding,2550,Spalding,10206
+1920,Georgia,130,Stephens,2570,Stephens,2316
+1920,Georgia,130,Stewart,2590,Stewart,8644
+1920,Georgia,130,Sumter,2610,Sumter,19862
+1920,Georgia,130,Talbot,2630,Talbot,7995
+1920,Georgia,130,Taliaferro,2650,Taliaferro,6230
+1920,Georgia,130,Tattnall,2670,Tattnall,3550
+1920,Georgia,130,Taylor,2690,Taylor,5521
+1920,Georgia,130,Telfair,2710,Telfair,5005
+1920,Georgia,130,Terrell,2730,Terrell,14055
+1920,Georgia,130,Thomas,2750,Thomas,17263
+1920,Georgia,130,Tift,2770,Tift,4290
+1920,Georgia,130,Toombs,2790,Toombs,3828
+1920,Georgia,130,Towns,2810,Towns,0
+1920,Georgia,130,Treutlen,2830,Treutlen,2777
+1920,Georgia,130,Troup,2850,Troup,16965
+1920,Georgia,130,Turner,2870,Turner,4924
+1920,Georgia,130,Twiggs,2890,Twiggs,6653
+1920,Georgia,130,Union,2910,Union,46
+1920,Georgia,130,Upson,2930,Upson,7257
+1920,Georgia,130,Walker,2950,Walker,2484
+1920,Georgia,130,Walton,2970,Walton,9715
+1920,Georgia,130,Ware,2990,Ware,12313
+1920,Georgia,130,Warren,3010,Warren,7821
+1920,Georgia,130,Washington,3030,Washington,16404
+1920,Georgia,130,Wayne,3050,Wayne,3153
+1920,Georgia,130,Webster,3070,Webster,3080
+1920,Georgia,130,Wheeler,3090,Wheeler,3562
+1920,Georgia,130,White,3110,White,396
+1920,Georgia,130,Whitfield,3130,Whitfield,1345
+1920,Georgia,130,Wilcox,3150,Wilcox,7302
+1920,Georgia,130,Wilkes,3170,Wilkes,16093
+1920,Georgia,130,Wilkinson,3190,Wilkinson,5624
+1920,Georgia,130,Worth,3210,Worth,12548
+1930,Georgia,130,Appling,10,Appling,2815
+1930,Georgia,130,Atkinson,30,Atkinson,1962
+1930,Georgia,130,Bacon,50,Bacon,1086
+1930,Georgia,130,Baker,70,Baker,4794
+1930,Georgia,130,Baldwin,90,Baldwin,10736
+1930,Georgia,130,Banks,110,Banks,963
+1930,Georgia,130,Barrow,130,Barrow,2068
+1930,Georgia,130,Bartow,150,Bartow,4659
+1930,Georgia,130,Ben Hill,170,Ben Hill,4449
+1930,Georgia,130,Berrien,190,Berrien,2352
+1930,Georgia,130,Bibb,210,Bibb,32906
+1930,Georgia,130,Bleckley,230,Bleckley,3261
+1930,Georgia,130,Brantley,250,Brantley,1271
+1930,Georgia,130,Brooks,270,Brooks,11259
+1930,Georgia,130,Bryan,290,Bryan,2666
+1930,Georgia,130,Bulloch,310,Bulloch,10081
+1930,Georgia,130,Burke,330,Burke,22698
+1930,Georgia,130,Butts,350,Butts,4488
+1930,Georgia,130,Calhoun,370,Calhoun,7431
+1930,Georgia,130,Camden,390,Camden,3745
+1930,Georgia,130,Campbell,395,Campbell,2959
+1930,Georgia,130,Candler,430,Candler,3141
+1930,Georgia,130,Carroll,450,Carroll,7617
+1930,Georgia,130,Catoosa,470,Catoosa,436
+1930,Georgia,130,Charlton,490,Charlton,1034
+1930,Georgia,130,Chatham,510,Chatham,49707
+1930,Georgia,130,Chattahoochee,530,Chattahoochee,2670
+1930,Georgia,130,Chattooga,550,Chattooga,1981
+1930,Georgia,130,Cherokee,570,Cherokee,972
+1930,Georgia,130,Clarke,590,Clarke,9948
+1930,Georgia,130,Clay,610,Clay,4533
+1930,Georgia,130,Clayton,630,Clayton,3250
+1930,Georgia,130,Clinch,650,Clinch,3049
+1930,Georgia,130,Cobb,670,Cobb,6540
+1930,Georgia,130,Coffee,690,Coffee,5246
+1930,Georgia,130,Colquitt,710,Colquitt,7739
+1930,Georgia,130,Columbia,730,Columbia,5536
+1930,Georgia,130,Cook,750,Cook,3077
+1930,Georgia,130,Coweta,770,Coweta,10828
+1930,Georgia,130,Crawford,790,Crawford,3879
+1930,Georgia,130,Crisp,810,Crisp,8369
+1930,Georgia,130,Dade,830,Dade,206
+1930,Georgia,130,Dawson,850,Dawson,42
+1930,Georgia,130,Decatur,870,Decatur,11812
+1930,Georgia,130,DeKalb,890,De Kalb,12118
+1930,Georgia,130,Dodge,910,Dodge,7998
+1930,Georgia,130,Dooly,930,Dooly,10064
+1930,Georgia,130,Dougherty,950,Dougherty,12816
+1930,Georgia,130,Douglas,970,Douglas,2271
+1930,Georgia,130,Early,990,Early,9737
+1930,Georgia,130,Echols,1010,Echols,845
+1930,Georgia,130,Effingham,1030,Effingham,4154
+1930,Georgia,130,Elbert,1050,Elbert,7535
+1930,Georgia,130,Emanuel,1070,Emanuel,9111
+1930,Georgia,130,Evans,1090,Evans,2606
+1930,Georgia,130,Fannin,1110,Fannin,72
+1930,Georgia,130,Fayette,1130,Fayette,2838
+1930,Georgia,130,Floyd,1150,Floyd,8615
+1930,Georgia,130,Forsyth,1170,Forsyth,17
+1930,Georgia,130,Franklin,1190,Franklin,2672
+1930,Georgia,130,Fulton,1210,Fulton,101505
+1930,Georgia,130,Gilmer,1230,Gilmer,12
+1930,Georgia,130,Glascock,1250,Glascock,1324
+1930,Georgia,130,Glynn,1270,Glynn,8296
+1930,Georgia,130,Gordon,1290,Gordon,1111
+1930,Georgia,130,Grady,1310,Grady,6627
+1930,Georgia,130,Greene,1330,Greene,6628
+1930,Georgia,130,Gwinnett,1350,Gwinnett,3343
+1930,Georgia,130,Habersham,1370,Habersham,685
+1930,Georgia,130,Hall,1390,Hall,3390
+1930,Georgia,130,Hancock,1410,Hancock,9345
+1930,Georgia,130,Haralson,1430,Haralson,1313
+1930,Georgia,130,Harris,1450,Harris,7693
+1930,Georgia,130,Hart,1470,Hart,3893
+1930,Georgia,130,Heard,1490,Heard,2369
+1930,Georgia,130,Henry,1510,Henry,7914
+1930,Georgia,130,Houston,1530,Houston,7628
+1930,Georgia,130,Irwin,1550,Irwin,4544
+1930,Georgia,130,Jackson,1570,Jackson,4064
+1930,Georgia,130,Jasper,1590,Jasper,5237
+1930,Georgia,130,Jeff Davis,1610,Jeff Davis,1665
+1930,Georgia,130,Jefferson,1630,Jefferson,12042
+1930,Georgia,130,Jenkins,1650,Jenkins,7464
+1930,Georgia,130,Johnson,1670,Johnson,4961
+1930,Georgia,130,Jones,1690,Jones,5774
+1930,Georgia,130,Lamar,1710,Lamar,4473
+1930,Georgia,130,Lanier,1730,Lanier,1940
+1930,Georgia,130,Laurens,1750,Laurens,13536
+1930,Georgia,130,Lee,1770,Lee,6489
+1930,Georgia,130,Liberty,1790,Liberty,5532
+1930,Georgia,130,Lincoln,1810,Lincoln,4093
+1930,Georgia,130,Long,1830,Long,1788
+1930,Georgia,130,Lowndes,1850,Lowndes,13783
+1930,Georgia,130,Lumpkin,1870,Lumpkin,188
+1930,Georgia,130,McDuffie,1890,Mcduffie,4572
+1930,Georgia,130,McIntosh,1910,Mcintosh,3876
+1930,Georgia,130,Macon,1930,Macon,11192
+1930,Georgia,130,Madison,1950,Madison,2834
+1930,Georgia,130,Marion,1970,Marion,3915
+1930,Georgia,130,Meriwether,1990,Meriwether,11766
+1930,Georgia,130,Miller,2010,Miller,3083
+1930,Georgia,130,Milton,2015,Milton,433
+1930,Georgia,130,Mitchell,2050,Mitchell,11862
+1930,Georgia,130,Monroe,2070,Monroe,6750
+1930,Georgia,130,Montgomery,2090,Montgomery,4467
+1930,Georgia,130,Morgan,2110,Morgan,7198
+1930,Georgia,130,Murray,2130,Murray,333
+1930,Georgia,130,Muscogee,2150,Muscogee,20667
+1930,Georgia,130,Newton,2170,Newton,6777
+1930,Georgia,130,Oconee,2190,Oconee,2401
+1930,Georgia,130,Oglethorpe,2210,Oglethorpe,6424
+1930,Georgia,130,Paulding,2230,Paulding,1124
+1930,Georgia,130,Peach,2250,Peach,6565
+1930,Georgia,130,Pickens,2270,Pickens,795
+1930,Georgia,130,Pierce,2290,Pierce,3245
+1930,Georgia,130,Pike,2310,Pike,5401
+1930,Georgia,130,Polk,2330,Polk,4751
+1930,Georgia,130,Pulaski,2350,Pulaski,5056
+1930,Georgia,130,Putnam,2370,Putnam,5212
+1930,Georgia,130,Quitman,2390,Quitman,2641
+1930,Georgia,130,Rabun,2410,Rabun,164
+1930,Georgia,130,Randolph,2430,Randolph,11547
+1930,Georgia,130,Richmond,2450,Richmond,30220
+1930,Georgia,130,Rockdale,2470,Rockdale,2441
+1930,Georgia,130,Schley,2490,Schley,3320
+1930,Georgia,130,Screven,2510,Screven,11621
+1930,Georgia,130,Seminole,2530,Seminole,2898
+1930,Georgia,130,Spalding,2550,Spalding,8154
+1930,Georgia,130,Stephens,2570,Stephens,2087
+1930,Georgia,130,Stewart,2590,Stewart,7930
+1930,Georgia,130,Sumter,2610,Sumter,17390
+1930,Georgia,130,Talbot,2630,Talbot,5828
+1930,Georgia,130,Taliaferro,2650,Taliaferro,4222
+1930,Georgia,130,Tattnall,2670,Tattnall,3328
+1930,Georgia,130,Taylor,2690,Taylor,5242
+1930,Georgia,130,Telfair,2710,Telfair,4858
+1930,Georgia,130,Terrell,2730,Terrell,12982
+1930,Georgia,130,Thomas,2750,Thomas,15856
+1930,Georgia,130,Tift,2770,Tift,4874
+1930,Georgia,130,Toombs,2790,Toombs,4890
+1930,Georgia,130,Towns,2810,Towns,0
+1930,Georgia,130,Treutlen,2830,Treutlen,2473
+1930,Georgia,130,Troup,2850,Troup,15092
+1930,Georgia,130,Turner,2870,Turner,3866
+1930,Georgia,130,Twiggs,2890,Twiggs,5335
+1930,Georgia,130,Union,2910,Union,47
+1930,Georgia,130,Upson,2930,Upson,6944
+1930,Georgia,130,Walker,2950,Walker,2355
+1930,Georgia,130,Walton,2970,Walton,6767
+1930,Georgia,130,Ware,2990,Ware,8216
+1930,Georgia,130,Warren,3010,Warren,7351
+1930,Georgia,130,Washington,3030,Washington,14132
+1930,Georgia,130,Wayne,3050,Wayne,2995
+1930,Georgia,130,Webster,3070,Webster,3038
+1930,Georgia,130,Wheeler,3090,Wheeler,2938
+1930,Georgia,130,White,3110,White,384
+1930,Georgia,130,Whitfield,3130,Whitfield,1371
+1930,Georgia,130,Wilcox,3150,Wilcox,5473
+1930,Georgia,130,Wilkes,3170,Wilkes,10088
+1930,Georgia,130,Wilkinson,3190,Wilkinson,5114
+1930,Georgia,130,Worth,3210,Worth,9575
+1940,Georgia,130,Appling,10,APPLING,2641
+1940,Georgia,130,Atkinson,30,ATKINSON,1671
+1940,Georgia,130,Bacon,50,BACON,1054
+1940,Georgia,130,Baker,70,BAKER,4295
+1940,Georgia,130,Baldwin,90,BALDWIN,11498
+1940,Georgia,130,Banks,110,BANKS,661
+1940,Georgia,130,Barrow,130,BARROW,2459
+1940,Georgia,130,Bartow,150,BARTOW/CASS,4210
+1940,Georgia,130,Ben Hill,170,BEN HILL,4849
+1940,Georgia,130,Berrien,190,BERRIEN,2337
+1940,Georgia,130,Bibb,210,BIBB,35544
+1940,Georgia,130,Bleckley,230,BLECKLEY,3324
+1940,Georgia,130,Brantley,250,BRANTLEY,1144
+1940,Georgia,130,Brooks,270,BROOKS,10507
+1940,Georgia,130,Bryan,290,BRYAN,2553
+1940,Georgia,130,Bulloch,310,BULLOCH,9842
+1940,Georgia,130,Burke,330,BURKE,19866
+1940,Georgia,130,Butts,350,BUTTS,4291
+1940,Georgia,130,Calhoun,370,CALHOUN,7129
+1940,Georgia,130,Camden,390,CAMDEN,3424
+1940,Georgia,130,Candler,430,CANDLER,3107
+1940,Georgia,130,Carroll,450,CARROLL,7253
+1940,Georgia,130,Catoosa,470,CATOOSA,323
+1940,Georgia,130,Charlton,490,CHARLTON,1496
+1940,Georgia,130,Chatham,510,CHATHAM,52943
+1940,Georgia,130,Chattahoochee,530,CHATTAHOOCHEE,3028
+1940,Georgia,130,Chattooga,550,CHATTOOGA,1812
+1940,Georgia,130,Cherokee,570,CHEROKEE,897
+1940,Georgia,130,Clarke,590,CLARKE,10063
+1940,Georgia,130,Clay,610,CLAY,4987
+1940,Georgia,130,Clayton,630,CLAYTON,2984
+1940,Georgia,130,Clinch,650,CLINCH,2499
+1940,Georgia,130,Cobb,670,COBB,6282
+1940,Georgia,130,Coffee,690,COFFEE,5376
+1940,Georgia,130,Colquitt,710,COLQUITT,8057
+1940,Georgia,130,Columbia,730,COLUMBIA,5664
+1940,Georgia,130,Cook,750,COOK,3191
+1940,Georgia,130,Coweta,770,COWETA,10823
+1940,Georgia,130,Crawford,790,CRAWFORD,4023
+1940,Georgia,130,Crisp,810,CRISP,8114
+1940,Georgia,130,Dade,830,DADE,297
+1940,Georgia,130,Dawson,850,DAWSON,64
+1940,Georgia,130,Decatur,870,DECATUR,10761
+1940,Georgia,130,DeKalb,890,DE KALB,13969
+1940,Georgia,130,Dodge,910,DODGE,6977
+1940,Georgia,130,Dooly,930,DOOLY,9331
+1940,Georgia,130,Dougherty,950,DOUGHERTY,15537
+1940,Georgia,130,Douglas,970,DOUGLAS,2173
+1940,Georgia,130,Early,990,EARLY,9614
+1940,Georgia,130,Echols,1010,ECHOLS,1065
+1940,Georgia,130,Effingham,1030,EFFINGHAM,4002
+1940,Georgia,130,Elbert,1050,ELBERT,7731
+1940,Georgia,130,Emanuel,1070,EMANUEL,8311
+1940,Georgia,130,Evans,1090,EVANS,2493
+1940,Georgia,130,Fannin,1110,FANNIN,77
+1940,Georgia,130,Fayette,1130,FAYETTE,2667
+1940,Georgia,130,Floyd,1150,FLOYD,8641
+1940,Georgia,130,Forsyth,1170,FORSYTH,41
+1940,Georgia,130,Franklin,1190,FRANKLIN,2270
+1940,Georgia,130,Fulton,1210,FULTON,123143
+1940,Georgia,130,Gilmer,1230,GILMER,49
+1940,Georgia,130,Glascock,1250,GLASCOCK,1221
+1940,Georgia,130,Glynn,1270,GLYNN,8564
+1940,Georgia,130,Gordon,1290,GORDON,1203
+1940,Georgia,130,Grady,1310,GRADY,6724
+1940,Georgia,130,Greene,1330,GREENE,7155
+1940,Georgia,130,Gwinnett,1350,GWINNETT,3336
+1940,Georgia,130,Habersham,1370,HABERSHAM,667
+1940,Georgia,130,Hall,1390,HALL,3339
+1940,Georgia,130,Hancock,1410,HANCOCK,9183
+1940,Georgia,130,Haralson,1430,HARALSON,1524
+1940,Georgia,130,Harris,1450,HARRIS,6802
+1940,Georgia,130,Hart,1470,HART,3961
+1940,Georgia,130,Heard,1490,HEARD,2587
+1940,Georgia,130,Henry,1510,HENRY,7164
+1940,Georgia,130,Houston,1530,HOUSTON,7319
+1940,Georgia,130,Irwin,1550,IRWIN,4758
+1940,Georgia,130,Jackson,1570,JACKSON,3541
+1940,Georgia,130,Jasper,1590,JASPER,4995
+1940,Georgia,130,Jeff Davis,1610,JEFF DAVIS,1610
+1940,Georgia,130,Jefferson,1630,JEFFERSON,11457
+1940,Georgia,130,Jenkins,1650,JENKINS,6537
+1940,Georgia,130,Johnson,1670,JOHNSON,4924
+1940,Georgia,130,Jones,1690,JONES,5081
+1940,Georgia,130,Lamar,1710,LAMAR,4423
+1940,Georgia,130,Lanier,1730,LANIER,1615
+1940,Georgia,130,Laurens,1750,LAURENS,13745
+1940,Georgia,130,Lee,1770,LEE,5942
+1940,Georgia,130,Liberty,1790,LIBERTY,5518
+1940,Georgia,130,Lincoln,1810,LINCOLN,3619
+1940,Georgia,130,Long,1830,LONG,1461
+1940,Georgia,130,Lowndes,1850,LOWNDES,14674
+1940,Georgia,130,Lumpkin,1870,LUMPKIN,220
+1940,Georgia,130,McDuffie,1890,MCDUFFIE,5313
+1940,Georgia,130,McIntosh,1910,MCINTOSH,3157
+1940,Georgia,130,Macon,1930,MACON,10894
+1940,Georgia,130,Madison,1950,MADISON,2605
+1940,Georgia,130,Marion,1970,MARION,3825
+1940,Georgia,130,Meriwether,1990,MERIWETHER,11721
+1940,Georgia,130,Miller,2010,MILLER,3245
+1940,Georgia,130,Mitchell,2050,MITCHELL,12265
+1940,Georgia,130,Monroe,2070,MONROE,6153
+1940,Georgia,130,Montgomery,2090,MONTGOMERY,3880
+1940,Georgia,130,Morgan,2110,MORGAN,6777
+1940,Georgia,130,Murray,2130,MURRAY,381
+1940,Georgia,130,Muscogee,2150,MUSCOGEE,26016
+1940,Georgia,130,Newton,2170,NEWTON,6422
+1940,Georgia,130,Oconee,2190,OCONEE,2259
+1940,Georgia,130,Oglethorpe,2210,OGLETHORPE,5496
+1940,Georgia,130,Paulding,2230,PAULDING,1298
+1940,Georgia,130,Peach,2250,PEACH,6366
+1940,Georgia,130,Pickens,2270,PICKENS,480
+1940,Georgia,130,Pierce,2290,PIERCE,2454
+1940,Georgia,130,Pike,2310,PIKE,5065
+1940,Georgia,130,Polk,2330,POLK,4769
+1940,Georgia,130,Pulaski,2350,PULASKI,5359
+1940,Georgia,130,Putnam,2370,PUTNAM,5097
+1940,Georgia,130,Quitman,2390,QUITMAN,2378
+1940,Georgia,130,Rabun,2410,RABUN,135
+1940,Georgia,130,Randolph,2430,RANDOLPH,11404
+1940,Georgia,130,Richmond,2450,RICHMOND,33369
+1940,Georgia,130,Rockdale,2470,ROCKDALE,2448
+1940,Georgia,130,Schley,2490,SCHLEY,3034
+1940,Georgia,130,Screven,2510,SCREVEN,11607
+1940,Georgia,130,Seminole,2530,SEMINOLE,3457
+1940,Georgia,130,Spalding,2550,SPALDING,8942
+1940,Georgia,130,Stephens,2570,STEPHENS,1856
+1940,Georgia,130,Stewart,2590,STEWART,7721
+1940,Georgia,130,Sumter,2610,SUMTER,14998
+1940,Georgia,130,Talbot,2630,TALBOT,5681
+1940,Georgia,130,Taliaferro,2650,TALIAFERRO,4281
+1940,Georgia,130,Tattnall,2670,TATTNALL,4167
+1940,Georgia,130,Taylor,2690,TAYLOR,5182
+1940,Georgia,130,Telfair,2710,TELFAIR,4787
+1940,Georgia,130,Terrell,2730,TERRELL,11961
+1940,Georgia,130,Thomas,2750,THOMAS,13980
+1940,Georgia,130,Tift,2770,TIFT,5493
+1940,Georgia,130,Toombs,2790,TOOMBS,4518
+1940,Georgia,130,Towns,2810,TOWNS,0
+1940,Georgia,130,Treutlen,2830,TREUTLEN,2299
+1940,Georgia,130,Troup,2850,TROUP,16352
+1940,Georgia,130,Turner,2870,TURNER,3810
+1940,Georgia,130,Twiggs,2890,TWIGGS,5864
+1940,Georgia,130,Union,2910,UNION,11
+1940,Georgia,130,Upson,2930,UPSON,7687
+1940,Georgia,130,Walker,2950,WALKER,2235
+1940,Georgia,130,Walton,2970,WALTON,6609
+1940,Georgia,130,Ware,2990,WARE,7540
+1940,Georgia,130,Warren,3010,WARREN,6665
+1940,Georgia,130,Washington,3030,WASHINGTON,13873
+1940,Georgia,130,Wayne,3050,WAYNE,2794
+1940,Georgia,130,Webster,3070,WEBSTER,2892
+1940,Georgia,130,Wheeler,3090,WHEELER,2680
+1940,Georgia,130,White,3110,WHITE,367
+1940,Georgia,130,Whitfield,3130,WHITFIELD,1465
+1940,Georgia,130,Wilcox,3150,WILCOX,4876
+1940,Georgia,130,Wilkes,3170,WILKES,9043
+1940,Georgia,130,Wilkinson,3190,WILKINSON,5407
+1940,Georgia,130,Worth,3210,WORTH,9977
+1950,Georgia,130,Appling,10,Appling,2609
+1950,Georgia,130,Atkinson,30,Atkinson,1646
+1950,Georgia,130,Bacon,50,Bacon,1060
+1950,Georgia,130,Baker,70,Baker,3633
+1950,Georgia,130,Baldwin,90,Baldwin,11861
+1950,Georgia,130,Banks,110,Banks,403
+1950,Georgia,130,Barrow,130,Barrow,2351
+1950,Georgia,130,Bartow,150,Bartow,4016
+1950,Georgia,130,Ben Hill,170,Ben Hill,4767
+1950,Georgia,130,Berrien,190,Berrien,1947
+1950,Georgia,130,Bibb,210,Bibb,40862
+1950,Georgia,130,Bleckley,230,Bleckley,2870
+1950,Georgia,130,Brantley,250,Brantley,784
+1950,Georgia,130,Brooks,270,Brooks,8895
+1950,Georgia,130,Bryan,290,Bryan,2363
+1950,Georgia,130,Bulloch,310,Bulloch,9125
+1950,Georgia,130,Burke,330,Burke,16734
+1950,Georgia,130,Butts,350,Butts,4138
+1950,Georgia,130,Calhoun,370,Calhoun,5793
+1950,Georgia,130,Camden,390,Camden,3709
+1950,Georgia,130,Candler,430,Candler,2786
+1950,Georgia,130,Carroll,450,Carroll,6650
+1950,Georgia,130,Catoosa,470,Catoosa,319
+1950,Georgia,130,Charlton,490,Charlton,1384
+1950,Georgia,130,Chatham,510,Chatham,58547
+1950,Georgia,130,Chattahoochee,530,Chattahoochee,1896
+1950,Georgia,130,Chattooga,550,Chattooga,1963
+1950,Georgia,130,Cherokee,570,Cherokee,823
+1950,Georgia,130,Clarke,590,Clarke,9936
+1950,Georgia,130,Clay,610,Clay,4071
+1950,Georgia,130,Clayton,630,Clayton,3793
+1950,Georgia,130,Clinch,650,Clinch,2104
+1950,Georgia,130,Cobb,670,Cobb,6224
+1950,Georgia,130,Coffee,690,Coffee,5788
+1950,Georgia,130,Colquitt,710,Colquitt,8014
+1950,Georgia,130,Columbia,730,Columbia,4558
+1950,Georgia,130,Cook,750,Cook,3379
+1950,Georgia,130,Coweta,770,Coweta,10453
+1950,Georgia,130,Crawford,790,Crawford,3509
+1950,Georgia,130,Crisp,810,Crisp,7758
+1950,Georgia,130,Dade,830,Dade,155
+1950,Georgia,130,Dawson,850,Dawson,0
+1950,Georgia,130,Decatur,870,Decatur,10964
+1950,Georgia,130,DeKalb,890,De Kalb,14410
+1950,Georgia,130,Dodge,910,Dodge,5408
+1950,Georgia,130,Dooly,930,Dooly,7510
+1950,Georgia,130,Dougherty,950,Dougherty,18700
+1950,Georgia,130,Douglas,970,Douglas,1985
+1950,Georgia,130,Early,990,Early,9219
+1950,Georgia,130,Echols,1010,Echols,725
+1950,Georgia,130,Effingham,1030,Effingham,3464
+1950,Georgia,130,Elbert,1050,Elbert,6227
+1950,Georgia,130,Emanuel,1070,Emanuel,6940
+1950,Georgia,130,Evans,1090,Evans,2470
+1950,Georgia,130,Fannin,1110,Fannin,71
+1950,Georgia,130,Fayette,1130,Fayette,2544
+1950,Georgia,130,Floyd,1150,Floyd,9287
+1950,Georgia,130,Forsyth,1170,Forsyth,50
+1950,Georgia,130,Franklin,1190,Franklin,1809
+1950,Georgia,130,Fulton,1210,Fulton,145182
+1950,Georgia,130,Gilmer,1230,Gilmer,22
+1950,Georgia,130,Glascock,1250,Glascock,959
+1950,Georgia,130,Glynn,1270,Glynn,9288
+1950,Georgia,130,Gordon,1290,Gordon,1089
+1950,Georgia,130,Grady,1310,Grady,6418
+1950,Georgia,130,Greene,1330,Greene,6549
+1950,Georgia,130,Gwinnett,1350,Gwinnett,3052
+1950,Georgia,130,Habersham,1370,Habersham,617
+1950,Georgia,130,Hall,1390,Hall,3919
+1950,Georgia,130,Hancock,1410,Hancock,8047
+1950,Georgia,130,Haralson,1430,Haralson,1263
+1950,Georgia,130,Harris,1450,Harris,6374
+1950,Georgia,130,Hart,1470,Hart,3568
+1950,Georgia,130,Heard,1490,Heard,1845
+1950,Georgia,130,Henry,1510,Henry,7074
+1950,Georgia,130,Houston,1530,Houston,7388
+1950,Georgia,130,Irwin,1550,Irwin,4328
+1950,Georgia,130,Jackson,1570,Jackson,2943
+1950,Georgia,130,Jasper,1590,Jasper,4223
+1950,Georgia,130,Jeff Davis,1610,Jeff Davis,1939
+1950,Georgia,130,Jefferson,1630,Jefferson,10845
+1950,Georgia,130,Jenkins,1650,Jenkins,5505
+1950,Georgia,130,Johnson,1670,Johnson,3323
+1950,Georgia,130,Jones,1690,Jones,4146
+1950,Georgia,130,Lamar,1710,Lamar,4171
+1950,Georgia,130,Lanier,1730,Lanier,1616
+1950,Georgia,130,Laurens,1750,Laurens,13307
+1950,Georgia,130,Lee,1770,Lee,4757
+1950,Georgia,130,Liberty,1790,Liberty,5167
+1950,Georgia,130,Lincoln,1810,Lincoln,3157
+1950,Georgia,130,Long,1830,Long,1248
+1950,Georgia,130,Lowndes,1850,Lowndes,14356
+1950,Georgia,130,Lumpkin,1870,Lumpkin,138
+1950,Georgia,130,McDuffie,1890,Mcduffie,5184
+1950,Georgia,130,McIntosh,1910,Mcintosh,3672
+1950,Georgia,130,Macon,1930,Macon,9398
+1950,Georgia,130,Madison,1950,Madison,2334
+1950,Georgia,130,Marion,1970,Marion,3859
+1950,Georgia,130,Meriwether,1990,Meriwether,10723
+1950,Georgia,130,Miller,2010,Miller,2686
+1950,Georgia,130,Mitchell,2050,Mitchell,11330
+1950,Georgia,130,Monroe,2070,Monroe,5351
+1950,Georgia,130,Montgomery,2090,Montgomery,3200
+1950,Georgia,130,Morgan,2110,Morgan,6190
+1950,Georgia,130,Murray,2130,Murray,175
+1950,Georgia,130,Muscogee,2150,Muscogee,30786
+1950,Georgia,130,Newton,2170,Newton,6688
+1950,Georgia,130,Oconee,2190,Oconee,1823
+1950,Georgia,130,Oglethorpe,2210,Oglethorpe,4316
+1950,Georgia,130,Paulding,2230,Paulding,1249
+1950,Georgia,130,Peach,2250,Peach,7174
+1950,Georgia,130,Pickens,2270,Pickens,403
+1950,Georgia,130,Pierce,2290,Pierce,2404
+1950,Georgia,130,Pike,2310,Pike,3879
+1950,Georgia,130,Polk,2330,Polk,4968
+1950,Georgia,130,Pulaski,2350,Pulaski,4372
+1950,Georgia,130,Putnam,2370,Putnam,4294
+1950,Georgia,130,Quitman,2390,Quitman,1998
+1950,Georgia,130,Rabun,2410,Rabun,93
+1950,Georgia,130,Randolph,2430,Randolph,9044
+1950,Georgia,130,Richmond,2450,Richmond,36793
+1950,Georgia,130,Rockdale,2470,Rockdale,2480
+1950,Georgia,130,Schley,2490,Schley,2395
+1950,Georgia,130,Screven,2510,Screven,10151
+1950,Georgia,130,Seminole,2530,Seminole,3035
+1950,Georgia,130,Spalding,2550,Spalding,8548
+1950,Georgia,130,Stephens,2570,Stephens,2166
+1950,Georgia,130,Stewart,2590,Stewart,6665
+1950,Georgia,130,Sumter,2610,Sumter,13304
+1950,Georgia,130,Talbot,2630,Talbot,5356
+1950,Georgia,130,Taliaferro,2650,Taliaferro,2971
+1950,Georgia,130,Tattnall,2670,Tattnall,4098
+1950,Georgia,130,Taylor,2690,Taylor,4359
+1950,Georgia,130,Telfair,2710,Telfair,4281
+1950,Georgia,130,Terrell,2730,Terrell,9612
+1950,Georgia,130,Thomas,2750,Thomas,13886
+1950,Georgia,130,Tift,2770,Tift,6408
+1950,Georgia,130,Toombs,2790,Toombs,4782
+1950,Georgia,130,Towns,2810,Towns,7
+1950,Georgia,130,Treutlen,2830,Treutlen,1940
+1950,Georgia,130,Troup,2850,Troup,16104
+1950,Georgia,130,Turner,2870,Turner,3881
+1950,Georgia,130,Twiggs,2890,Twiggs,5144
+1950,Georgia,130,Union,2910,Union,1
+1950,Georgia,130,Upson,2930,Upson,6631
+1950,Georgia,130,Walker,2950,Walker,2324
+1950,Georgia,130,Walton,2970,Walton,6293
+1950,Georgia,130,Ware,2990,Ware,8038
+1950,Georgia,130,Warren,3010,Warren,5608
+1950,Georgia,130,Washington,3030,Washington,11912
+1950,Georgia,130,Wayne,3050,Wayne,2808
+1950,Georgia,130,Webster,3070,Webster,2608
+1950,Georgia,130,Wheeler,3090,Wheeler,2182
+1950,Georgia,130,White,3110,White,348
+1950,Georgia,130,Whitfield,3130,Whitfield,1426
+1950,Georgia,130,Wilcox,3150,Wilcox,3527
+1950,Georgia,130,Wilkes,3170,Wilkes,6905
+1950,Georgia,130,Wilkinson,3190,Wilkinson,4742
+1950,Georgia,130,Worth,3210,Worth,9407
+1960,Georgia,130,Appling,10,Appling,3048
+1960,Georgia,130,Atkinson,30,Atkinson,1777
+1960,Georgia,130,Bacon,50,Bacon,1087
+1960,Georgia,130,Baker,70,Baker,2676
+1960,Georgia,130,Baldwin,90,Baldwin,13496
+1960,Georgia,130,Banks,110,Banks,426
+1960,Georgia,130,Barrow,130,Barrow,2562
+1960,Georgia,130,Bartow,150,Bartow,4284
+1960,Georgia,130,Ben Hill,170,Ben Hill,4552
+1960,Georgia,130,Berrien,190,Berrien,1843
+1960,Georgia,130,Bibb,210,Bibb,47173
+1960,Georgia,130,Bleckley,230,Bleckley,2751
+1960,Georgia,130,Brantley,250,Brantley,773
+1960,Georgia,130,Brooks,270,Brooks,7459
+1960,Georgia,130,Bryan,290,Bryan,2299
+1960,Georgia,130,Bulloch,310,Bulloch,8955
+1960,Georgia,130,Burke,330,Burke,13685
+1960,Georgia,130,Butts,350,Butts,4183
+1960,Georgia,130,Calhoun,370,Calhoun,4779
+1960,Georgia,130,Camden,390,Camden,4024
+1960,Georgia,130,Candler,430,Candler,2371
+1960,Georgia,130,Carroll,450,Carroll,6994
+1960,Georgia,130,Catoosa,470,Catoosa,312
+1960,Georgia,130,Charlton,490,Charlton,1702
+1960,Georgia,130,Chatham,510,Chatham,64183
+1960,Georgia,130,Chattahoochee,530,Chattahoochee,2417
+1960,Georgia,130,Chattooga,550,Chattooga,1852
+1960,Georgia,130,Cherokee,570,Cherokee,911
+1960,Georgia,130,Clarke,590,Clarke,11615
+1960,Georgia,130,Clay,610,Clay,2837
+1960,Georgia,130,Clayton,630,Clayton,4770
+1960,Georgia,130,Clinch,650,Clinch,2486
+1960,Georgia,130,Cobb,670,Cobb,8078
+1960,Georgia,130,Coffee,690,Coffee,5988
+1960,Georgia,130,Colquitt,710,Colquitt,8223
+1960,Georgia,130,Columbia,730,Columbia,4786
+1960,Georgia,130,Cook,750,Cook,3486
+1960,Georgia,130,Coweta,770,Coweta,10470
+1960,Georgia,130,Crawford,790,Crawford,3364
+1960,Georgia,130,Crisp,810,Crisp,7621
+1960,Georgia,130,Dade,830,Dade,135
+1960,Georgia,130,Dawson,850,Dawson,1
+1960,Georgia,130,Decatur,870,Decatur,10493
+1960,Georgia,130,DeKalb,890,De Kalb,22412
+1960,Georgia,130,Dodge,910,Dodge,4585
+1960,Georgia,130,Dooly,930,Dooly,6027
+1960,Georgia,130,Dougherty,950,Dougherty,25998
+1960,Georgia,130,Douglas,970,Douglas,2489
+1960,Georgia,130,Early,990,Early,6822
+1960,Georgia,130,Echols,1010,Echols,525
+1960,Georgia,130,Effingham,1030,Effingham,3501
+1960,Georgia,130,Elbert,1050,Elbert,6109
+1960,Georgia,130,Emanuel,1070,Emanuel,5904
+1960,Georgia,130,Evans,1090,Evans,2583
+1960,Georgia,130,Fannin,1110,Fannin,45
+1960,Georgia,130,Fayette,1130,Fayette,2431
+1960,Georgia,130,Floyd,1150,Floyd,9938
+1960,Georgia,130,Forsyth,1170,Forsyth,4
+1960,Georgia,130,Franklin,1190,Franklin,1536
+1960,Georgia,130,Fulton,1210,Fulton,193403
+1960,Georgia,130,Gilmer,1230,Gilmer,9
+1960,Georgia,130,Glascock,1250,Glascock,763
+1960,Georgia,130,Glynn,1270,Glynn,11648
+1960,Georgia,130,Gordon,1290,Gordon,1209
+1960,Georgia,130,Grady,1310,Grady,6662
+1960,Georgia,130,Greene,1330,Greene,5878
+1960,Georgia,130,Gwinnett,1350,Gwinnett,3506
+1960,Georgia,130,Habersham,1370,Habersham,917
+1960,Georgia,130,Hall,1390,Hall,5391
+1960,Georgia,130,Hancock,1410,Hancock,7461
+1960,Georgia,130,Haralson,1430,Haralson,1200
+1960,Georgia,130,Harris,1450,Harris,6108
+1960,Georgia,130,Hart,1470,Hart,3727
+1960,Georgia,130,Heard,1490,Heard,1226
+1960,Georgia,130,Henry,1510,Henry,7506
+1960,Georgia,130,Houston,1530,Houston,8815
+1960,Georgia,130,Irwin,1550,Irwin,3435
+1960,Georgia,130,Jackson,1570,Jackson,2372
+1960,Georgia,130,Jasper,1590,Jasper,3303
+1960,Georgia,130,Jeff Davis,1610,Jeff Davis,1829
+1960,Georgia,130,Jefferson,1630,Jefferson,9882
+1960,Georgia,130,Jenkins,1650,Jenkins,4545
+1960,Georgia,130,Johnson,1670,Johnson,2675
+1960,Georgia,130,Jones,1690,Jones,4257
+1960,Georgia,130,Lamar,1710,Lamar,4049
+1960,Georgia,130,Lanier,1730,Lanier,1545
+1960,Georgia,130,Laurens,1750,Laurens,12030
+1960,Georgia,130,Lee,1770,Lee,3890
+1960,Georgia,130,Liberty,1790,Liberty,6139
+1960,Georgia,130,Lincoln,1810,Lincoln,2894
+1960,Georgia,130,Long,1830,Long,1278
+1960,Georgia,130,Lowndes,1850,Lowndes,15975
+1960,Georgia,130,Lumpkin,1870,Lumpkin,127
+1960,Georgia,130,McDuffie,1890,Mcduffie,5352
+1960,Georgia,130,McIntosh,1910,Mcintosh,3690
+1960,Georgia,130,Macon,1930,Macon,8299
+1960,Georgia,130,Madison,1950,Madison,2089
+1960,Georgia,130,Marion,1970,Marion,3291
+1960,Georgia,130,Meriwether,1990,Meriwether,9836
+1960,Georgia,130,Miller,2010,Miller,2032
+1960,Georgia,130,Mitchell,2050,Mitchell,10021
+1960,Georgia,130,Monroe,2070,Monroe,5080
+1960,Georgia,130,Montgomery,2090,Montgomery,2550
+1960,Georgia,130,Morgan,2110,Morgan,4920
+1960,Georgia,130,Murray,2130,Murray,85
+1960,Georgia,130,Muscogee,2150,Muscogee,38455
+1960,Georgia,130,Newton,2170,Newton,7257
+1960,Georgia,130,Oconee,2190,Oconee,1396
+1960,Georgia,130,Oglethorpe,2210,Oglethorpe,3556
+1960,Georgia,130,Paulding,2230,Paulding,1204
+1960,Georgia,130,Peach,2250,Peach,8130
+1960,Georgia,130,Pickens,2270,Pickens,389
+1960,Georgia,130,Pierce,2290,Pierce,2138
+1960,Georgia,130,Pike,2310,Pike,3201
+1960,Georgia,130,Polk,2330,Polk,4455
+1960,Georgia,130,Pulaski,2350,Pulaski,3560
+1960,Georgia,130,Putnam,2370,Putnam,4214
+1960,Georgia,130,Quitman,2390,Quitman,1560
+1960,Georgia,130,Rabun,2410,Rabun,60
+1960,Georgia,130,Randolph,2430,Randolph,6887
+1960,Georgia,130,Richmond,2450,Richmond,43118
+1960,Georgia,130,Rockdale,2470,Rockdale,2889
+1960,Georgia,130,Schley,2490,Schley,1839
+1960,Georgia,130,Screven,2510,Screven,7832
+1960,Georgia,130,Seminole,2530,Seminole,2613
+1960,Georgia,130,Spalding,2550,Spalding,9977
+1960,Georgia,130,Stephens,2570,Stephens,2567
+1960,Georgia,130,Stewart,2590,Stewart,5208
+1960,Georgia,130,Sumter,2610,Sumter,13026
+1960,Georgia,130,Talbot,2630,Talbot,4975
+1960,Georgia,130,Taliaferro,2650,Taliaferro,2097
+1960,Georgia,130,Tattnall,2670,Tattnall,5034
+1960,Georgia,130,Taylor,2690,Taylor,4013
+1960,Georgia,130,Telfair,2710,Telfair,4011
+1960,Georgia,130,Terrell,2730,Terrell,8209
+1960,Georgia,130,Thomas,2750,Thomas,14202
+1960,Georgia,130,Tift,2770,Tift,7007
+1960,Georgia,130,Toombs,2790,Toombs,4735
+1960,Georgia,130,Towns,2810,Towns,1
+1960,Georgia,130,Treutlen,2830,Treutlen,1943
+1960,Georgia,130,Troup,2850,Troup,15771
+1960,Georgia,130,Turner,2870,Turner,3116
+1960,Georgia,130,Twiggs,2890,Twiggs,4771
+1960,Georgia,130,Union,2910,Union,1
+1960,Georgia,130,Upson,2930,Upson,6683
+1960,Georgia,130,Walker,2950,Walker,2435
+1960,Georgia,130,Walton,2970,Walton,6137
+1960,Georgia,130,Ware,2990,Ware,8481
+1960,Georgia,130,Warren,3010,Warren,4609
+1960,Georgia,130,Washington,3030,Washington,10801
+1960,Georgia,130,Wayne,3050,Wayne,3807
+1960,Georgia,130,Webster,3070,Webster,2075
+1960,Georgia,130,Wheeler,3090,Wheeler,1735
+1960,Georgia,130,White,3110,White,301
+1960,Georgia,130,Whitfield,3130,Whitfield,1917
+1960,Georgia,130,Wilcox,3150,Wilcox,2641
+1960,Georgia,130,Wilkes,3170,Wilkes,5619
+1960,Georgia,130,Wilkinson,3190,Wilkinson,4460
+1960,Georgia,130,Worth,3210,Worth,8040
+1970,Georgia,13,Appling,1,Appling,2660
+1970,Georgia,13,Atkinson,3,Atkinson,1857
+1970,Georgia,13,Bacon,5,Bacon,1093
+1970,Georgia,13,Baker,7,Baker,2007
+1970,Georgia,13,Baldwin,9,Baldwin,12976
+1970,Georgia,13,Banks,11,Banks,453
+1970,Georgia,13,Barrow,13,Barrow,2926
+1970,Georgia,13,Bartow,15,Bartow,4376
+1970,Georgia,13,Ben Hill,17,Ben Hill,4091
+1970,Georgia,13,Berrien,19,Berrien,1575
+1970,Georgia,13,Bibb,21,Bibb,48911
+1970,Georgia,13,Bleckley,23,Bleckley,2295
+1970,Georgia,13,Brantley,25,Brantley,595
+1970,Georgia,13,Brooks,27,Brooks,6361
+1970,Georgia,13,Bryan,29,Bryan,1927
+1970,Georgia,13,Bulloch,31,Bulloch,11337
+1970,Georgia,13,Burke,33,Burke,11001
+1970,Georgia,13,Butts,35,Butts,4547
+1970,Georgia,13,Calhoun,37,Calhoun,4059
+1970,Georgia,13,Camden,39,Camden,4357
+1970,Georgia,13,Candler,43,Candler,2159
+1970,Georgia,13,Carroll,45,Carroll,7531
+1970,Georgia,13,Catoosa,47,Catoosa,476
+1970,Georgia,13,Charlton,49,Charlton,1924
+1970,Georgia,13,Chatham,51,Chatham,63522
+1970,Georgia,13,Chattahoochee,53,Chattahoochee,4351
+1970,Georgia,13,Chattooga,55,Chattooga,2052
+1970,Georgia,13,Cherokee,57,Cherokee,1344
+1970,Georgia,13,Clarke,59,Clarke,12727
+1970,Georgia,13,Clay,61,Clay,2248
+1970,Georgia,13,Clayton,63,Clayton,4476
+1970,Georgia,13,Clinch,65,Clinch,2005
+1970,Georgia,13,Cobb,67,Cobb,8180
+1970,Georgia,13,Coffee,69,Coffee,5880
+1970,Georgia,13,Colquitt,71,Colquitt,7526
+1970,Georgia,13,Columbia,73,Columbia,4864
+1970,Georgia,13,Cook,75,Cook,3790
+1970,Georgia,13,Coweta,77,Coweta,10295
+1970,Georgia,13,Crawford,79,Crawford,3013
+1970,Georgia,13,Crisp,81,Crisp,7312
+1970,Georgia,13,Dade,83,Dade,304
+1970,Georgia,13,Dawson,85,Dawson,0
+1970,Georgia,13,Decatur,87,Decatur,9334
+1970,Georgia,13,DeKalb,89,De Kalb,56863
+1970,Georgia,13,Dodge,91,Dodge,3957
+1970,Georgia,13,Dooly,93,Dooly,5215
+1970,Georgia,13,Dougherty,95,Dougherty,30642
+1970,Georgia,13,Douglas,97,Douglas,3163
+1970,Georgia,13,Early,99,Early,6048
+1970,Georgia,13,Echols,101,Echols,543
+1970,Georgia,13,Effingham,103,Effingham,3416
+1970,Georgia,13,Elbert,105,Elbert,5627
+1970,Georgia,13,Emanuel,107,Emanuel,5478
+1970,Georgia,13,Evans,109,Evans,2434
+1970,Georgia,13,Fannin,111,Fannin,138
+1970,Georgia,13,Fayette,113,Fayette,1959
+1970,Georgia,13,Floyd,115,Floyd,9697
+1970,Georgia,13,Forsyth,117,Forsyth,159
+1970,Georgia,13,Franklin,119,Franklin,1552
+1970,Georgia,13,Fulton,121,Fulton,237404
+1970,Georgia,13,Gilmer,123,Gilmer,28
+1970,Georgia,13,Glascock,125,Glascock,556
+1970,Georgia,13,Glynn,127,Glynn,12534
+1970,Georgia,13,Gordon,129,Gordon,1402
+1970,Georgia,13,Grady,131,Grady,6292
+1970,Georgia,13,Greene,133,Greene,5264
+1970,Georgia,13,Gwinnett,135,Gwinnett,3696
+1970,Georgia,13,Habersham,137,Habersham,1213
+1970,Georgia,13,Hall,139,Hall,6015
+1970,Georgia,13,Hancock,141,Hancock,6607
+1970,Georgia,13,Haralson,143,Haralson,1220
+1970,Georgia,13,Harris,145,Harris,5188
+1970,Georgia,13,Hart,147,Hart,3707
+1970,Georgia,13,Heard,149,Heard,1265
+1970,Georgia,13,Henry,151,Henry,7514
+1970,Georgia,13,Houston,153,Houston,10603
+1970,Georgia,13,Irwin,155,Irwin,2729
+1970,Georgia,13,Jackson,157,Jackson,2707
+1970,Georgia,13,Jasper,159,Jasper,2753
+1970,Georgia,13,Jeff Davis,161,Jeff Davis,1761
+1970,Georgia,13,Jefferson,163,Jefferson,9305
+1970,Georgia,13,Jenkins,165,Jenkins,3671
+1970,Georgia,13,Johnson,167,Johnson,2383
+1970,Georgia,13,Jones,169,Jones,4708
+1970,Georgia,13,Lamar,171,Lamar,4164
+1970,Georgia,13,Lanier,173,Lanier,1505
+1970,Georgia,13,Laurens,175,Laurens,11212
+1970,Georgia,13,Lee,177,Lee,3068
+1970,Georgia,13,Liberty,179,Liberty,6078
+1970,Georgia,13,Lincoln,181,Lincoln,2715
+1970,Georgia,13,Long,183,Long,1200
+1970,Georgia,13,Lowndes,185,Lowndes,16085
+1970,Georgia,13,Lumpkin,187,Lumpkin,199
+1970,Georgia,13,McDuffie,189,Mc Duffie,6334
+1970,Georgia,13,McIntosh,191,Mc Intosh,3875
+1970,Georgia,13,Macon,193,Macon,7850
+1970,Georgia,13,Madison,195,Madison,1906
+1970,Georgia,13,Marion,197,Marion,2646
+1970,Georgia,13,Meriwether,199,Meriwether,9250
+1970,Georgia,13,Miller,201,Miller,1872
+1970,Georgia,13,Mitchell,205,Mitchell,9198
+1970,Georgia,13,Monroe,207,Monroe,5091
+1970,Georgia,13,Montgomery,209,Montgomery,2030
+1970,Georgia,13,Morgan,211,Morgan,4465
+1970,Georgia,13,Murray,213,Murray,155
+1970,Georgia,13,Muscogee,215,Muscogee,42981
+1970,Georgia,13,Newton,217,Newton,8193
+1970,Georgia,13,Oconee,219,Oconee,1267
+1970,Georgia,13,Oglethorpe,221,Oglethorpe,2816
+1970,Georgia,13,Paulding,223,Paulding,1372
+1970,Georgia,13,Peach,225,Peach,9058
+1970,Georgia,13,Pickens,227,Pickens,386
+1970,Georgia,13,Pierce,229,Pierce,1785
+1970,Georgia,13,Pike,231,Pike,2956
+1970,Georgia,13,Polk,233,Polk,4636
+1970,Georgia,13,Pulaski,235,Pulaski,2943
+1970,Georgia,13,Putnam,237,Putnam,4074
+1970,Georgia,13,Quitman,239,Quitman,1311
+1970,Georgia,13,Rabun,241,Rabun,121
+1970,Georgia,13,Randolph,243,Randolph,4853
+1970,Georgia,13,Richmond,245,Richmond,48545
+1970,Georgia,13,Rockdale,247,Rockdale,3255
+1970,Georgia,13,Schley,249,Schley,1384
+1970,Georgia,13,Screven,251,Screven,5800
+1970,Georgia,13,Seminole,253,Seminole,2504
+1970,Georgia,13,Spalding,255,Spalding,10544
+1970,Georgia,13,Stephens,257,Stephens,2415
+1970,Georgia,13,Stewart,259,Stewart,4220
+1970,Georgia,13,Sumter,261,Sumter,11854
+1970,Georgia,13,Talbot,263,Talbot,4481
+1970,Georgia,13,Taliaferro,265,Taliaferro,1541
+1970,Georgia,13,Tattnall,267,Tattnall,5149
+1970,Georgia,13,Taylor,269,Taylor,3522
+1970,Georgia,13,Telfair,271,Telfair,3952
+1970,Georgia,13,Terrell,273,Terrell,6840
+1970,Georgia,13,Thomas,275,Thomas,13651
+1970,Georgia,13,Tift,277,Tift,7798
+1970,Georgia,13,Toombs,279,Toombs,5148
+1970,Georgia,13,Towns,281,Towns,0
+1970,Georgia,13,Treutlen,283,Treutlen,1885
+1970,Georgia,13,Troup,285,Troup,14121
+1970,Georgia,13,Turner,287,Turner,3133
+1970,Georgia,13,Twiggs,289,Twiggs,4613
+1970,Georgia,13,Union,291,Union,0
+1970,Georgia,13,Upson,293,Upson,6642
+1970,Georgia,13,Walker,295,Walker,2511
+1970,Georgia,13,Walton,297,Walton,6512
+1970,Georgia,13,Ware,299,Ware,7574
+1970,Georgia,13,Warren,301,Warren,3891
+1970,Georgia,13,Washington,303,Washington,9368
+1970,Georgia,13,Wayne,305,Wayne,3730
+1970,Georgia,13,Webster,307,Webster,1379
+1970,Georgia,13,Wheeler,309,Wheeler,1410
+1970,Georgia,13,White,311,White,453
+1970,Georgia,13,Whitfield,313,Whitfield,2210
+1970,Georgia,13,Wilcox,315,Wilcox,2161
+1970,Georgia,13,Wilkes,317,Wilkes,4846
+1970,Georgia,13,Wilkinson,319,Wilkinson,4362
+1970,Georgia,13,Worth,321,Worth,5592
+1980,Georgia,13,Appling,1,Appling County,3137
+1980,Georgia,13,Atkinson,3,Atkinson County,1691
+1980,Georgia,13,Bacon,5,Bacon County,1394
+1980,Georgia,13,Baker,7,Baker County,1898
+1980,Georgia,13,Baldwin,9,Baldwin County,12980
+1980,Georgia,13,Banks,11,Banks County,433
+1980,Georgia,13,Barrow,13,Barrow County,3132
+1980,Georgia,13,Bartow,15,Bartow County,4720
+1980,Georgia,13,Ben Hill,17,Ben Hill County,4833
+1980,Georgia,13,Berrien,19,Berrien County,1691
+1980,Georgia,13,Bibb,21,Bibb County,58231
+1980,Georgia,13,Bleckley,23,Bleckley County,2366
+1980,Georgia,13,Brantley,25,Brantley County,569
+1980,Georgia,13,Brooks,27,Brooks County,6797
+1980,Georgia,13,Bryan,29,Bryan County,2190
+1980,Georgia,13,Bulloch,31,Bulloch County,9556
+1980,Georgia,13,Burke,33,Burke County,10385
+1980,Georgia,13,Butts,35,Butts County,5353
+1980,Georgia,13,Calhoun,37,Calhoun County,3285
+1980,Georgia,13,Camden,39,Camden County,4290
+1980,Georgia,13,Candler,43,Candler County,2410
+1980,Georgia,13,Carroll,45,Carroll County,9679
+1980,Georgia,13,Catoosa,47,Catoosa County,289
+1980,Georgia,13,Charlton,49,Charlton County,2161
+1980,Georgia,13,Chatham,51,Chatham County,77310
+1980,Georgia,13,Chattahoochee,53,Chattahoochee County,7048
+1980,Georgia,13,Chattooga,55,Chattooga County,1887
+1980,Georgia,13,Cherokee,57,Cherokee County,1116
+1980,Georgia,13,Clarke,59,Clarke County,17568
+1980,Georgia,13,Clay,61,Clay County,2208
+1980,Georgia,13,Clayton,63,Clayton County,10494
+1980,Georgia,13,Clinch,65,Clinch County,1958
+1980,Georgia,13,Cobb,67,Cobb County,13055
+1980,Georgia,13,Coffee,69,Coffee County,6823
+1980,Georgia,13,Colquitt,71,Colquitt County,8279
+1980,Georgia,13,Columbia,73,Columbia County,5892
+1980,Georgia,13,Cook,75,Cook County,4090
+1980,Georgia,13,Coweta,77,Coweta County,10703
+1980,Georgia,13,Crawford,79,Crawford County,3047
+1980,Georgia,13,Crisp,81,Crisp County,7645
+1980,Georgia,13,Dade,83,Dade County,109
+1980,Georgia,13,Dawson,85,Dawson County,0
+1980,Georgia,13,Decatur,87,Decatur County,9921
+1980,Georgia,13,DeKalb,89,De Kalb County,130980
+1980,Georgia,13,Dodge,91,Dodge County,4492
+1980,Georgia,13,Dooly,93,Dooly County,5278
+1980,Georgia,13,Dougherty,95,Dougherty County,43170
+1980,Georgia,13,Douglas,97,Douglas County,2818
+1980,Georgia,13,Early,99,Early County,5681
+1980,Georgia,13,Echols,101,Echols County,381
+1980,Georgia,13,Effingham,103,Effingham County,3418
+1980,Georgia,13,Elbert,105,Elbert County,5767
+1980,Georgia,13,Emanuel,107,Emanuel County,6591
+1980,Georgia,13,Evans,109,Evans County,2927
+1980,Georgia,13,Fannin,111,Fannin County,7
+1980,Georgia,13,Fayette,113,Fayette County,1276
+1980,Georgia,13,Floyd,115,Floyd County,10253
+1980,Georgia,13,Forsyth,117,Forsyth County,1
+1980,Georgia,13,Franklin,119,Franklin County,1533
+1980,Georgia,13,Fulton,121,Fulton County,303509
+1980,Georgia,13,Gilmer,123,Gilmer County,22
+1980,Georgia,13,Glascock,125,Glascock County,389
+1980,Georgia,13,Glynn,127,Glynn County,14500
+1980,Georgia,13,Gordon,129,Gordon County,1322
+1980,Georgia,13,Grady,131,Grady County,6284
+1980,Georgia,13,Greene,133,Greene County,5992
+1980,Georgia,13,Gwinnett,135,Gwinnett County,4094
+1980,Georgia,13,Habersham,137,Habersham County,1321
+1980,Georgia,13,Hall,139,Hall County,6822
+1980,Georgia,13,Hancock,141,Hancock County,7406
+1980,Georgia,13,Haralson,143,Haralson County,1338
+1980,Georgia,13,Harris,145,Harris County,5303
+1980,Georgia,13,Hart,147,Hart County,4126
+1980,Georgia,13,Heard,149,Heard County,1118
+1980,Georgia,13,Henry,151,Henry County,6363
+1980,Georgia,13,Houston,153,Houston County,15887
+1980,Georgia,13,Irwin,155,Irwin County,2783
+1980,Georgia,13,Jackson,157,Jackson County,2750
+1980,Georgia,13,Jasper,159,Jasper County,3045
+1980,Georgia,13,Jeff Davis,161,Jeff Davis County,1824
+1980,Georgia,13,Jefferson,163,Jefferson County,10058
+1980,Georgia,13,Jenkins,165,Jenkins County,3640
+1980,Georgia,13,Johnson,167,Johnson County,2768
+1980,Georgia,13,Jones,169,Jones County,5013
+1980,Georgia,13,Lamar,171,Lamar County,4219
+1980,Georgia,13,Lanier,173,Lanier County,1391
+1980,Georgia,13,Laurens,175,Laurens County,12190
+1980,Georgia,13,Lee,177,Lee County,2779
+1980,Georgia,13,Liberty,179,Liberty County,13749
+1980,Georgia,13,Lincoln,181,Lincoln County,2893
+1980,Georgia,13,Long,183,Long County,1162
+1980,Georgia,13,Lowndes,185,Lowndes County,20604
+1980,Georgia,13,Lumpkin,187,Lumpkin County,232
+1980,Georgia,13,McDuffie,189,McDuffie County,6705
+1980,Georgia,13,McIntosh,191,McIntosh County,3633
+1980,Georgia,13,Macon,193,Macon County,7856
+1980,Georgia,13,Madison,195,Madison County,1942
+1980,Georgia,13,Marion,197,Marion County,2450
+1980,Georgia,13,Meriwether,199,Meriwether County,9560
+1980,Georgia,13,Miller,201,Miller County,2006
+1980,Georgia,13,Mitchell,205,Mitchell County,10136
+1980,Georgia,13,Monroe,207,Monroe County,5526
+1980,Georgia,13,Montgomery,209,Montgomery County,2169
+1980,Georgia,13,Morgan,211,Morgan County,4751
+1980,Georgia,13,Murray,213,Murray County,33
+1980,Georgia,13,Muscogee,215,Muscogee County,57884
+1980,Georgia,13,Newton,217,Newton County,8801
+1980,Georgia,13,Oconee,219,Oconee County,1268
+1980,Georgia,13,Oglethorpe,221,Oglethorpe County,2830
+1980,Georgia,13,Paulding,223,Paulding County,1199
+1980,Georgia,13,Peach,225,Peach County,9682
+1980,Georgia,13,Pickens,227,Pickens County,276
+1980,Georgia,13,Pierce,229,Pierce County,1662
+1980,Georgia,13,Pike,231,Pike County,2340
+1980,Georgia,13,Polk,233,Polk County,4823
+1980,Georgia,13,Pulaski,235,Pulaski County,3074
+1980,Georgia,13,Putnam,237,Putnam County,4272
+1980,Georgia,13,Quitman,239,Quitman County,1336
+1980,Georgia,13,Rabun,241,Rabun County,66
+1980,Georgia,13,Randolph,243,Randolph County,5374
+1980,Georgia,13,Richmond,245,Richmond County,67980
+1980,Georgia,13,Rockdale,247,Rockdale County,3186
+1980,Georgia,13,Schley,249,Schley County,1250
+1980,Georgia,13,Screven,251,Screven County,6379
+1980,Georgia,13,Seminole,253,Seminole County,2953
+1980,Georgia,13,Spalding,255,Spalding County,13002
+1980,Georgia,13,Stephens,257,Stephens County,2637
+1980,Georgia,13,Stewart,259,Stewart County,3787
+1980,Georgia,13,Sumter,261,Sumter County,12981
+1980,Georgia,13,Talbot,263,Talbot County,4220
+1980,Georgia,13,Taliaferro,265,Taliaferro County,1318
+1980,Georgia,13,Tattnall,267,Tattnall County,5253
+1980,Georgia,13,Taylor,269,Taylor County,3186
+1980,Georgia,13,Telfair,271,Telfair County,3570
+1980,Georgia,13,Terrell,273,Terrell County,7301
+1980,Georgia,13,Thomas,275,Thomas County,14626
+1980,Georgia,13,Tift,277,Tift County,8530
+1980,Georgia,13,Toombs,279,Toombs County,5734
+1980,Georgia,13,Towns,281,Towns County,1
+1980,Georgia,13,Treutlen,283,Treutlen County,2030
+1980,Georgia,13,Troup,285,Troup County,15633
+1980,Georgia,13,Turner,287,Turner County,3499
+1980,Georgia,13,Twiggs,289,Twiggs County,4756
+1980,Georgia,13,Union,291,Union County,3
+1980,Georgia,13,Upson,293,Upson County,7145
+1980,Georgia,13,Walker,295,Walker County,2328
+1980,Georgia,13,Walton,297,Walton County,6576
+1980,Georgia,13,Ware,299,Ware County,8375
+1980,Georgia,13,Warren,301,Warren County,3922
+1980,Georgia,13,Washington,303,Washington County,9645
+1980,Georgia,13,Wayne,305,Wayne County,3953
+1980,Georgia,13,Webster,307,Webster County,1180
+1980,Georgia,13,Wheeler,309,Wheeler County,1530
+1980,Georgia,13,White,311,White County,392
+1980,Georgia,13,Whitfield,313,Whitfield County,2518
+1980,Georgia,13,Wilcox,315,Wilcox County,2452
+1980,Georgia,13,Wilkes,317,Wilkes County,5028
+1980,Georgia,13,Wilkinson,319,Wilkinson County,4654
+1980,Georgia,13,Worth,321,Worth County,6198
+1990,Georgia,130,Appling,1,Appling County,3268
+1990,Georgia,130,Atkinson,3,Atkinson County,1658
+1990,Georgia,130,Bacon,5,Bacon County,1480
+1990,Georgia,130,Baker,7,Baker County,1861
+1990,Georgia,130,Baldwin,9,Baldwin County,16706
+1990,Georgia,130,Banks,11,Banks County,364
+1990,Georgia,130,Barrow,13,Barrow County,3354
+1990,Georgia,130,Bartow,15,Bartow County,5026
+1990,Georgia,130,Ben Hill,17,Ben Hill County,5088
+1990,Georgia,130,Berrien,19,Berrien County,1648
+1990,Georgia,130,Bibb,21,Bibb County,62526
+1990,Georgia,130,Bleckley,23,Bleckley County,2332
+1990,Georgia,130,Brantley,25,Brantley County,596
+1990,Georgia,130,Brooks,27,Brooks County,6390
+1990,Georgia,130,Bryan,29,Bryan County,2293
+1990,Georgia,130,Bulloch,31,Bulloch County,11226
+1990,Georgia,130,Burke,33,Burke County,10756
+1990,Georgia,130,Butts,35,Butts County,5438
+1990,Georgia,130,Calhoun,37,Calhoun County,2953
+1990,Georgia,130,Camden,39,Camden County,6079
+1990,Georgia,130,Candler,43,Candler County,2405
+1990,Georgia,130,Carroll,45,Carroll County,11231
+1990,Georgia,130,Catoosa,47,Catoosa County,357
+1990,Georgia,130,Charlton,49,Charlton County,2355
+1990,Georgia,130,Chatham,51,Chatham County,82608
+1990,Georgia,130,Chattahoochee,53,Chattahoochee County,5235
+1990,Georgia,130,Chattooga,55,Chattooga County,1941
+1990,Georgia,130,Cherokee,57,Cherokee County,1693
+1990,Georgia,130,Clarke,59,Clarke County,22935
+1990,Georgia,130,Clay,61,Clay County,2044
+1990,Georgia,130,Clayton,63,Clayton County,43403
+1990,Georgia,130,Clinch,65,Clinch County,1682
+1990,Georgia,130,Cobb,67,Cobb County,44154
+1990,Georgia,130,Coffee,69,Coffee County,7504
+1990,Georgia,130,Colquitt,71,Colquitt County,8861
+1990,Georgia,130,Columbia,73,Columbia County,7282
+1990,Georgia,130,Cook,75,Cook County,4031
+1990,Georgia,130,Coweta,77,Coweta County,12194
+1990,Georgia,130,Crawford,79,Crawford County,2757
+1990,Georgia,130,Crisp,81,Crisp County,8153
+1990,Georgia,130,Dade,83,Dade County,101
+1990,Georgia,130,Dawson,85,Dawson County,4
+1990,Georgia,130,Decatur,87,Decatur County,10070
+1990,Georgia,130,DeKalb,89,DeKalb County,230425
+1990,Georgia,130,Dodge,91,Dodge County,4864
+1990,Georgia,130,Dooly,93,Dooly County,4852
+1990,Georgia,130,Dougherty,95,Dougherty County,48387
+1990,Georgia,130,Douglas,97,Douglas County,5597
+1990,Georgia,130,Early,99,Early County,5226
+1990,Georgia,130,Echols,101,Echols County,264
+1990,Georgia,130,Effingham,103,Effingham County,3620
+1990,Georgia,130,Elbert,105,Elbert County,5718
+1990,Georgia,130,Emanuel,107,Emanuel County,6681
+1990,Georgia,130,Evans,109,Evans County,2963
+1990,Georgia,130,Fannin,111,Fannin County,5
+1990,Georgia,130,Fayette,113,Fayette County,3380
+1990,Georgia,130,Floyd,115,Floyd County,11106
+1990,Georgia,130,Forsyth,117,Forsyth County,14
+1990,Georgia,130,Franklin,119,Franklin County,1681
+1990,Georgia,130,Fulton,121,Fulton County,324008
+1990,Georgia,130,Gilmer,123,Gilmer County,37
+1990,Georgia,130,Glascock,125,Glascock County,298
+1990,Georgia,130,Glynn,127,Glynn County,15941
+1990,Georgia,130,Gordon,129,Gordon County,1321
+1990,Georgia,130,Grady,131,Grady County,6395
+1990,Georgia,130,Greene,133,Greene County,5887
+1990,Georgia,130,Gwinnett,135,Gwinnett County,18175
+1990,Georgia,130,Habersham,137,Habersham County,1554
+1990,Georgia,130,Hall,139,Hall County,8195
+1990,Georgia,130,Hancock,141,Hancock County,7077
+1990,Georgia,130,Haralson,143,Haralson County,1427
+1990,Georgia,130,Harris,145,Harris County,4571
+1990,Georgia,130,Hart,147,Hart County,4002
+1990,Georgia,130,Heard,149,Heard County,1163
+1990,Georgia,130,Henry,151,Henry County,6068
+1990,Georgia,130,Houston,153,Houston County,19376
+1990,Georgia,130,Irwin,155,Irwin County,2630
+1990,Georgia,130,Jackson,157,Jackson County,2904
+1990,Georgia,130,Jasper,159,Jasper County,2940
+1990,Georgia,130,Jeff Davis,161,Jeff Davis County,1834
+1990,Georgia,130,Jefferson,163,Jefferson County,9700
+1990,Georgia,130,Jenkins,165,Jenkins County,3412
+1990,Georgia,130,Johnson,167,Johnson County,2839
+1990,Georgia,130,Jones,169,Jones County,5317
+1990,Georgia,130,Lamar,171,Lamar County,4442
+1990,Georgia,130,Lanier,173,Lanier County,1470
+1990,Georgia,130,Laurens,175,Laurens County,13304
+1990,Georgia,130,Lee,177,Lee County,3135
+1990,Georgia,130,Liberty,179,Liberty County,20655
+1990,Georgia,130,Lincoln,181,Lincoln County,2826
+1990,Georgia,130,Long,183,Long County,1342
+1990,Georgia,130,Lowndes,185,Lowndes County,24241
+1990,Georgia,130,Lumpkin,187,Lumpkin County,238
+1990,Georgia,130,Macon,193,Macon County,7694
+1990,Georgia,130,Madison,195,Madison County,1849
+1990,Georgia,130,Marion,197,Marion County,2306
+1990,Georgia,130,McDuffie,189,McDuffie County,7320
+1990,Georgia,130,McIntosh,191,McIntosh County,3719
+1990,Georgia,130,Meriwether,199,Meriwether County,9989
+1990,Georgia,130,Miller,201,Miller County,1726
+1990,Georgia,130,Mitchell,205,Mitchell County,9647
+1990,Georgia,130,Monroe,207,Monroe County,5406
+1990,Georgia,130,Montgomery,209,Montgomery County,2026
+1990,Georgia,130,Morgan,211,Morgan County,4459
+1990,Georgia,130,Murray,213,Murray County,41
+1990,Georgia,130,Muscogee,215,Muscogee County,68161
+1990,Georgia,130,Newton,217,Newton County,9357
+1990,Georgia,130,Oconee,219,Oconee County,1315
+1990,Georgia,130,Oglethorpe,221,Oglethorpe County,2419
+1990,Georgia,130,Paulding,223,Paulding County,1648
+1990,Georgia,130,Peach,225,Peach County,10075
+1990,Georgia,130,Pickens,227,Pickens County,247
+1990,Georgia,130,Pierce,229,Pierce County,1569
+1990,Georgia,130,Pike,231,Pike County,2053
+1990,Georgia,130,Polk,233,Polk County,4791
+1990,Georgia,130,Pulaski,235,Pulaski County,2632
+1990,Georgia,130,Putnam,237,Putnam County,4748
+1990,Georgia,130,Quitman,239,Quitman County,1107
+1990,Georgia,130,Rabun,241,Rabun County,41
+1990,Georgia,130,Randolph,243,Randolph County,4645
+1990,Georgia,130,Richmond,245,Richmond County,79639
+1990,Georgia,130,Rockdale,247,Rockdale County,4355
+1990,Georgia,130,Schley,249,Schley County,1222
+1990,Georgia,130,Screven,251,Screven County,6209
+1990,Georgia,130,Seminole,253,Seminole County,2943
+1990,Georgia,130,Spalding,255,Spalding County,15785
+1990,Georgia,130,Stephens,257,Stephens County,2787
+1990,Georgia,130,Stewart,259,Stewart County,3578
+1990,Georgia,130,Sumter,261,Sumter County,14045
+1990,Georgia,130,Talbot,263,Talbot County,4067
+1990,Georgia,130,Taliaferro,265,Taliaferro County,1167
+1990,Georgia,130,Tattnall,267,Tattnall County,5177
+1990,Georgia,130,Taylor,269,Taylor County,3300
+1990,Georgia,130,Telfair,271,Telfair County,3773
+1990,Georgia,130,Terrell,273,Terrell County,6377
+1990,Georgia,130,Thomas,275,Thomas County,14759
+1990,Georgia,130,Tift,277,Tift County,9371
+1990,Georgia,130,Toombs,279,Toombs County,5637
+1990,Georgia,130,Towns,281,Towns County,0
+1990,Georgia,130,Treutlen,283,Treutlen County,1984
+1990,Georgia,130,Troup,285,Troup County,16694
+1990,Georgia,130,Turner,287,Turner County,3534
+1990,Georgia,130,Twiggs,289,Twiggs County,4501
+1990,Georgia,130,Union,291,Union County,19
+1990,Georgia,130,Upson,293,Upson County,7272
+1990,Georgia,130,Walker,295,Walker County,2246
+1990,Georgia,130,Walton,297,Walton County,7105
+1990,Georgia,130,Ware,299,Ware County,9238
+1990,Georgia,130,Warren,301,Warren County,3656
+1990,Georgia,130,Washington,303,Washington County,9874
+1990,Georgia,130,Wayne,305,Wayne County,4358
+1990,Georgia,130,Webster,307,Webster County,1132
+1990,Georgia,130,Wheeler,309,Wheeler County,1474
+1990,Georgia,130,White,311,White County,360
+1990,Georgia,130,Whitfield,313,Whitfield County,2901
+1990,Georgia,130,Wilcox,315,Wilcox County,2225
+1990,Georgia,130,Wilkes,317,Wilkes County,4909
+1990,Georgia,130,Wilkinson,319,Wilkinson County,4302
+1990,Georgia,130,Worth,321,Worth County,6051
+2000,Georgia,13,Appling,1,Appling,3412
+2000,Georgia,13,Atkinson,3,Atkinson,1492
+2000,Georgia,13,Bacon,5,Bacon,1586
+2000,Georgia,13,Baker,7,Baker,2053
+2000,Georgia,13,Baldwin,9,Baldwin,19392
+2000,Georgia,13,Banks,11,Banks,464
+2000,Georgia,13,Barrow,13,Barrow,4483
+2000,Georgia,13,Bartow,15,Bartow,6600
+2000,Georgia,13,Ben Hill,17,Ben Hill,5706
+2000,Georgia,13,Berrien,19,Berrien,1856
+2000,Georgia,13,Bibb,21,Bibb,72818
+2000,Georgia,13,Bleckley,23,Bleckley,2869
+2000,Georgia,13,Brantley,25,Brantley,582
+2000,Georgia,13,Brooks,27,Brooks,6472
+2000,Georgia,13,Bryan,29,Bryan,3311
+2000,Georgia,13,Bulloch,31,Bulloch,16101
+2000,Georgia,13,Burke,33,Burke,11343
+2000,Georgia,13,Butts,35,Butts,5627
+2000,Georgia,13,Calhoun,37,Calhoun,3830
+2000,Georgia,13,Camden,39,Camden,8783
+2000,Georgia,13,Candler,43,Candler,2593
+2000,Georgia,13,Carroll,45,Carroll,14241
+2000,Georgia,13,Catoosa,47,Catoosa,669
+2000,Georgia,13,Charlton,49,Charlton,3008
+2000,Georgia,13,Chatham,51,Chatham,93971
+2000,Georgia,13,Chattahoochee,53,Chattahoochee,4453
+2000,Georgia,13,Chattooga,55,Chattooga,2856
+2000,Georgia,13,Cherokee,57,Cherokee,3525
+2000,Georgia,13,Clarke,59,Clarke,27656
+2000,Georgia,13,Clay,61,Clay,2030
+2000,Georgia,13,Clayton,63,Clayton,121927
+2000,Georgia,13,Clinch,65,Clinch,2029
+2000,Georgia,13,Cobb,67,Cobb,114233
+2000,Georgia,13,Coffee,69,Coffee,9684
+2000,Georgia,13,Colquitt,71,Colquitt,9869
+2000,Georgia,13,Columbia,73,Columbia,10011
+2000,Georgia,13,Cook,75,Cook,4587
+2000,Georgia,13,Coweta,77,Coweta,16032
+2000,Georgia,13,Crawford,79,Crawford,2974
+2000,Georgia,13,Crisp,81,Crisp,9547
+2000,Georgia,13,Dade,83,Dade,96
+2000,Georgia,13,Dawson,85,Dawson,57
+2000,Georgia,13,Decatur,87,Decatur,11270
+2000,Georgia,13,DeKalb,89,DeKalb,361111
+2000,Georgia,13,Dodge,91,Dodge,5637
+2000,Georgia,13,Dooly,93,Dooly,5709
+2000,Georgia,13,Dougherty,95,Dougherty,57762
+2000,Georgia,13,Douglas,97,Douglas,17065
+2000,Georgia,13,Early,99,Early,5947
+2000,Georgia,13,Echols,101,Echols,260
+2000,Georgia,13,Effingham,103,Effingham,4876
+2000,Georgia,13,Elbert,105,Elbert,6328
+2000,Georgia,13,Emanuel,107,Emanuel,7267
+2000,Georgia,13,Evans,109,Evans,3461
+2000,Georgia,13,Fannin,111,Fannin,24
+2000,Georgia,13,Fayette,113,Fayette,10465
+2000,Georgia,13,Floyd,115,Floyd,12050
+2000,Georgia,13,Forsyth,117,Forsyth,684
+2000,Georgia,13,Franklin,119,Franklin,1792
+2000,Georgia,13,Fulton,121,Fulton,363656
+2000,Georgia,13,Gilmer,123,Gilmer,63
+2000,Georgia,13,Glascock,125,Glascock,212
+2000,Georgia,13,Glynn,127,Glynn,17874
+2000,Georgia,13,Gordon,129,Gordon,1527
+2000,Georgia,13,Grady,131,Grady,7133
+2000,Georgia,13,Greene,133,Greene,6403
+2000,Georgia,13,Gwinnett,135,Gwinnett,78224
+2000,Georgia,13,Habersham,137,Habersham,1610
+2000,Georgia,13,Hall,139,Hall,10126
+2000,Georgia,13,Hancock,141,Hancock,7835
+2000,Georgia,13,Haralson,143,Haralson,1388
+2000,Georgia,13,Harris,145,Harris,4614
+2000,Georgia,13,Hart,147,Hart,4452
+2000,Georgia,13,Heard,149,Heard,1192
+2000,Georgia,13,Henry,151,Henry,17523
+2000,Georgia,13,Houston,153,Houston,27422
+2000,Georgia,13,Irwin,155,Irwin,2570
+2000,Georgia,13,Jackson,157,Jackson,3234
+2000,Georgia,13,Jasper,159,Jasper,3115
+2000,Georgia,13,Jeff Davis,161,Jeff Davis,1920
+2000,Georgia,13,Jefferson,163,Jefferson,9717
+2000,Georgia,13,Jenkins,165,Jenkins,3472
+2000,Georgia,13,Johnson,167,Johnson,3164
+2000,Georgia,13,Jones,169,Jones,5506
+2000,Georgia,13,Lamar,171,Lamar,4836
+2000,Georgia,13,Lanier,173,Lanier,1856
+2000,Georgia,13,Laurens,175,Laurens,15494
+2000,Georgia,13,Lee,177,Lee,3838
+2000,Georgia,13,Liberty,179,Liberty,26396
+2000,Georgia,13,Lincoln,181,Lincoln,2869
+2000,Georgia,13,Long,183,Long,2499
+2000,Georgia,13,Lowndes,185,Lowndes,31309
+2000,Georgia,13,Lumpkin,187,Lumpkin,307
+2000,Georgia,13,Macon,193,Macon,8371
+2000,Georgia,13,Madison,195,Madison,2176
+2000,Georgia,13,Marion,197,Marion,2434
+2000,Georgia,13,McDuffie,189,McDuffie,7966
+2000,Georgia,13,McIntosh,191,McIntosh,3993
+2000,Georgia,13,Meriwether,199,Meriwether,9512
+2000,Georgia,13,Miller,201,Miller,1845
+2000,Georgia,13,Mitchell,205,Mitchell,11455
+2000,Georgia,13,Monroe,207,Monroe,6077
+2000,Georgia,13,Montgomery,209,Montgomery,2253
+2000,Georgia,13,Morgan,211,Morgan,4410
+2000,Georgia,13,Murray,213,Murray,226
+2000,Georgia,13,Muscogee,215,Muscogee,81488
+2000,Georgia,13,Newton,217,Newton,13771
+2000,Georgia,13,Oconee,219,Oconee,1683
+2000,Georgia,13,Oglethorpe,221,Oglethorpe,2496
+2000,Georgia,13,Paulding,223,Paulding,5685
+2000,Georgia,13,Peach,225,Peach,10738
+2000,Georgia,13,Pickens,227,Pickens,293
+2000,Georgia,13,Pierce,229,Pierce,1706
+2000,Georgia,13,Pike,231,Pike,2025
+2000,Georgia,13,Polk,233,Polk,5085
+2000,Georgia,13,Pulaski,235,Pulaski,3287
+2000,Georgia,13,Putnam,237,Putnam,5625
+2000,Georgia,13,Quitman,239,Quitman,1218
+2000,Georgia,13,Rabun,241,Rabun,119
+2000,Georgia,13,Randolph,243,Randolph,4633
+2000,Georgia,13,Richmond,245,Richmond,99391
+2000,Georgia,13,Rockdale,247,Rockdale,12771
+2000,Georgia,13,Schley,249,Schley,1178
+2000,Georgia,13,Screven,251,Screven,6963
+2000,Georgia,13,Seminole,253,Seminole,3247
+2000,Georgia,13,Spalding,255,Spalding,18141
+2000,Georgia,13,Stephens,257,Stephens,3053
+2000,Georgia,13,Stewart,259,Stewart,3232
+2000,Georgia,13,Sumter,261,Sumter,16276
+2000,Georgia,13,Talbot,263,Talbot,4002
+2000,Georgia,13,Taliaferro,265,Taliaferro,1253
+2000,Georgia,13,Tattnall,267,Tattnall,7010
+2000,Georgia,13,Taylor,269,Taylor,3752
+2000,Georgia,13,Telfair,271,Telfair,4534
+2000,Georgia,13,Terrell,273,Terrell,6658
+2000,Georgia,13,Thomas,275,Thomas,16607
+2000,Georgia,13,Tift,277,Tift,10760
+2000,Georgia,13,Toombs,279,Toombs,6296
+2000,Georgia,13,Towns,281,Towns,12
+2000,Georgia,13,Treutlen,283,Treutlen,2269
+2000,Georgia,13,Troup,285,Troup,18734
+2000,Georgia,13,Turner,287,Turner,3895
+2000,Georgia,13,Twiggs,289,Twiggs,4623
+2000,Georgia,13,Union,291,Union,100
+2000,Georgia,13,Upson,293,Upson,7712
+2000,Georgia,13,Walker,295,Walker,2310
+2000,Georgia,13,Walton,297,Walton,8749
+2000,Georgia,13,Ware,299,Ware,9939
+2000,Georgia,13,Warren,301,Warren,3768
+2000,Georgia,13,Washington,303,Washington,11265
+2000,Georgia,13,Wayne,305,Wayne,5398
+2000,Georgia,13,Webster,307,Webster,1124
+2000,Georgia,13,Wheeler,309,Wheeler,2050
+2000,Georgia,13,White,311,White,432
+2000,Georgia,13,Whitfield,313,Whitfield,3214
+2000,Georgia,13,Wilcox,315,Wilcox,3106
+2000,Georgia,13,Wilkes,317,Wilkes,4601
+2000,Georgia,13,Wilkinson,319,Wilkinson,4160
+2000,Georgia,13,Worth,321,Worth,6495
+2010,Georgia,13,Appling,1,Appling,3392
+2010,Georgia,13,Atkinson,3,Atkinson,1453
+2010,Georgia,13,Bacon,5,Bacon,1704
+2010,Georgia,13,Baker,7,Baker,1613
+2010,Georgia,13,Baldwin,9,Baldwin,18965
+2010,Georgia,13,Banks,11,Banks,427
+2010,Georgia,13,Barrow,13,Barrow,7889
+2010,Georgia,13,Bartow,15,Bartow,10178
+2010,Georgia,13,Ben Hill,17,Ben Hill,6104
+2010,Georgia,13,Berrien,19,Berrien,2063
+2010,Georgia,13,Bibb,21,Bibb,81116
+2010,Georgia,13,Bleckley,23,Bleckley,3564
+2010,Georgia,13,Brantley,25,Brantley,538
+2010,Georgia,13,Brooks,27,Brooks,5729
+2010,Georgia,13,Bryan,29,Bryan,4286
+2010,Georgia,13,Bulloch,31,Bulloch,19409
+2010,Georgia,13,Burke,33,Burke,11533
+2010,Georgia,13,Butts,35,Butts,6469
+2010,Georgia,13,Calhoun,37,Calhoun,4105
+2010,Georgia,13,Camden,39,Camden,9799
+2010,Georgia,13,Candler,43,Candler,2683
+2010,Georgia,13,Carroll,45,Carroll,20089
+2010,Georgia,13,Catoosa,47,Catoosa,1392
+2010,Georgia,13,Charlton,49,Charlton,3464
+2010,Georgia,13,Chatham,51,Chatham,106392
+2010,Georgia,13,Chattahoochee,53,Chattahoochee,2123
+2010,Georgia,13,Chattooga,55,Chattooga,2899
+2010,Georgia,13,Cherokee,57,Cherokee,12117
+2010,Georgia,13,Clarke,59,Clarke,30988
+2010,Georgia,13,Clay,61,Clay,1923
+2010,Georgia,13,Clayton,63,Clayton,171480
+2010,Georgia,13,Clinch,65,Clinch,1886
+2010,Georgia,13,Cobb,67,Cobb,171774
+2010,Georgia,13,Coffee,69,Coffee,11283
+2010,Georgia,13,Colquitt,71,Colquitt,10210
+2010,Georgia,13,Columbia,73,Columbia,18439
+2010,Georgia,13,Cook,75,Cook,4704
+2010,Georgia,13,Coweta,77,Coweta,22029
+2010,Georgia,13,Crawford,79,Crawford,2818
+2010,Georgia,13,Crisp,81,Crisp,10079
+2010,Georgia,13,Dade,83,Dade,145
+2010,Georgia,13,Dawson,85,Dawson,105
+2010,Georgia,13,Decatur,87,Decatur,11438
+2010,Georgia,13,DeKalb,89,DeKalb,375725
+2010,Georgia,13,Dodge,91,Dodge,6504
+2010,Georgia,13,Dooly,93,Dooly,7442
+2010,Georgia,13,Dougherty,95,Dougherty,63470
+2010,Georgia,13,Douglas,97,Douglas,52290
+2010,Georgia,13,Early,99,Early,5462
+2010,Georgia,13,Echols,101,Echols,171
+2010,Georgia,13,Effingham,103,Effingham,7048
+2010,Georgia,13,Elbert,105,Elbert,5950
+2010,Georgia,13,Emanuel,107,Emanuel,7562
+2010,Georgia,13,Evans,109,Evans,3205
+2010,Georgia,13,Fannin,111,Fannin,83
+2010,Georgia,13,Fayette,113,Fayette,21395
+2010,Georgia,13,Floyd,115,Floyd,13640
+2010,Georgia,13,Forsyth,117,Forsyth,4510
+2010,Georgia,13,Franklin,119,Franklin,1850
+2010,Georgia,13,Fulton,121,Fulton,405575
+2010,Georgia,13,Gilmer,123,Gilmer,135
+2010,Georgia,13,Glascock,125,Glascock,253
+2010,Georgia,13,Glynn,127,Glynn,20726
+2010,Georgia,13,Gordon,129,Gordon,2005
+2010,Georgia,13,Grady,131,Grady,7176
+2010,Georgia,13,Greene,133,Greene,6105
+2010,Georgia,13,Gwinnett,135,Gwinnett,190167
+2010,Georgia,13,Habersham,137,Habersham,1444
+2010,Georgia,13,Hall,139,Hall,13279
+2010,Georgia,13,Hancock,141,Hancock,6983
+2010,Georgia,13,Haralson,143,Haralson,1353
+2010,Georgia,13,Harris,145,Harris,5506
+2010,Georgia,13,Hart,147,Hart,4710
+2010,Georgia,13,Heard,149,Heard,1159
+2010,Georgia,13,Henry,151,Henry,75277
+2010,Georgia,13,Houston,153,Houston,39998
+2010,Georgia,13,Irwin,155,Irwin,2472
+2010,Georgia,13,Jackson,157,Jackson,4103
+2010,Georgia,13,Jasper,159,Jasper,3037
+2010,Georgia,13,Jeff Davis,161,Jeff Davis,2224
+2010,Georgia,13,Jefferson,163,Jefferson,9213
+2010,Georgia,13,Jenkins,165,Jenkins,3380
+2010,Georgia,13,Johnson,167,Johnson,3489
+2010,Georgia,13,Jones,169,Jones,7008
+2010,Georgia,13,Lamar,171,Lamar,5650
+2010,Georgia,13,Lanier,173,Lanier,2390
+2010,Georgia,13,Laurens,175,Laurens,17324
+2010,Georgia,13,Lee,177,Lee,5268
+2010,Georgia,13,Liberty,179,Liberty,26805
+2010,Georgia,13,Lincoln,181,Lincoln,2570
+2010,Georgia,13,Long,183,Long,3647
+2010,Georgia,13,Lowndes,185,Lowndes,39142
+2010,Georgia,13,Lumpkin,187,Lumpkin,340
+2010,Georgia,13,Macon,193,Macon,8933
+2010,Georgia,13,Madison,195,Madison,2355
+2010,Georgia,13,Marion,197,Marion,2856
+2010,Georgia,13,McDuffie,189,McDuffie,8706
+2010,Georgia,13,McIntosh,191,McIntosh,5149
+2010,Georgia,13,Meriwether,199,Meriwether,8605
+2010,Georgia,13,Miller,201,Miller,1720
+2010,Georgia,13,Mitchell,205,Mitchell,11219
+2010,Georgia,13,Monroe,207,Monroe,6268
+2010,Georgia,13,Montgomery,209,Montgomery,2397
+2010,Georgia,13,Morgan,211,Morgan,4208
+2010,Georgia,13,Murray,213,Murray,245
+2010,Georgia,13,Muscogee,215,Muscogee,86403
+2010,Georgia,13,Newton,217,Newton,40878
+2010,Georgia,13,Oconee,219,Oconee,1635
+2010,Georgia,13,Oglethorpe,221,Oglethorpe,2566
+2010,Georgia,13,Paulding,223,Paulding,24321
+2010,Georgia,13,Peach,225,Peach,12715
+2010,Georgia,13,Pickens,227,Pickens,312
+2010,Georgia,13,Pierce,229,Pierce,1666
+2010,Georgia,13,Pike,231,Pike,1837
+2010,Georgia,13,Polk,233,Polk,5190
+2010,Georgia,13,Pulaski,235,Pulaski,3824
+2010,Georgia,13,Putnam,237,Putnam,5522
+2010,Georgia,13,Quitman,239,Quitman,1204
+2010,Georgia,13,Rabun,241,Rabun,156
+2010,Georgia,13,Randolph,243,Randolph,4769
+2010,Georgia,13,Richmond,245,Richmond,108633
+2010,Georgia,13,Rockdale,247,Rockdale,39559
+2010,Georgia,13,Schley,249,Schley,1169
+2010,Georgia,13,Screven,251,Screven,6318
+2010,Georgia,13,Seminole,253,Seminole,2916
+2010,Georgia,13,Spalding,255,Spalding,21030
+2010,Georgia,13,Stephens,257,Stephens,2845
+2010,Georgia,13,Stewart,259,Stewart,2864
+2010,Georgia,13,Sumter,261,Sumter,17001
+2010,Georgia,13,Talbot,263,Talbot,4065
+2010,Georgia,13,Taliaferro,265,Taliaferro,1024
+2010,Georgia,13,Tattnall,267,Tattnall,7465
+2010,Georgia,13,Taylor,269,Taylor,3503
+2010,Georgia,13,Telfair,271,Telfair,6017
+2010,Georgia,13,Terrell,273,Terrell,5700
+2010,Georgia,13,Thomas,275,Thomas,16497
+2010,Georgia,13,Tift,277,Tift,11618
+2010,Georgia,13,Toombs,279,Toombs,6767
+2010,Georgia,13,Towns,281,Towns,41
+2010,Georgia,13,Treutlen,283,Treutlen,2247
+2010,Georgia,13,Troup,285,Troup,22394
+2010,Georgia,13,Turner,287,Turner,3712
+2010,Georgia,13,Twiggs,289,Twiggs,3724
+2010,Georgia,13,Union,291,Union,99
+2010,Georgia,13,Upson,293,Upson,7590
+2010,Georgia,13,Walker,295,Walker,2829
+2010,Georgia,13,Walton,297,Walton,13103
+2010,Georgia,13,Ware,299,Ware,10721
+2010,Georgia,13,Warren,301,Warren,3602
+2010,Georgia,13,Washington,303,Washington,11173
+2010,Georgia,13,Wayne,305,Wayne,5996
+2010,Georgia,13,Webster,307,Webster,1185
+2010,Georgia,13,Wheeler,309,Wheeler,2614
+2010,Georgia,13,White,311,White,457
+2010,Georgia,13,Whitfield,313,Whitfield,3845
+2010,Georgia,13,Wilcox,315,Wilcox,3252
+2010,Georgia,13,Wilkes,317,Wilkes,4535
+2010,Georgia,13,Wilkinson,319,Wilkinson,3672
+2010,Georgia,13,Worth,321,Worth,5978
+2020,Georgia,13,Appling,1,Appling,3627
+2020,Georgia,13,Atkinson,3,Atkinson,1419
+2020,Georgia,13,Bacon,5,Bacon,1868
+2020,Georgia,13,Baker,7,Baker,1388
+2020,Georgia,13,Baldwin,9,Baldwin,19095
+2020,Georgia,13,Banks,11,Banks,532
+2020,Georgia,13,Barrow,13,Barrow,10101
+2020,Georgia,13,Bartow,15,Bartow,12024
+2020,Georgia,13,Ben Hill,17,Ben Hill,6060
+2020,Georgia,13,Berrien,19,Berrien,2118
+2020,Georgia,13,Bibb,21,Bibb,84968
+2020,Georgia,13,Bleckley,23,Bleckley,3415
+2020,Georgia,13,Brantley,25,Brantley,680
+2020,Georgia,13,Brooks,27,Brooks,5414
+2020,Georgia,13,Bryan,29,Bryan,5640
+2020,Georgia,13,Bulloch,31,Bulloch,22880
+2020,Georgia,13,Burke,33,Burke,10629
+2020,Georgia,13,Butts,35,Butts,6943
+2020,Georgia,13,Calhoun,37,Calhoun,3875
+2020,Georgia,13,Camden,39,Camden,10306
+2020,Georgia,13,Candler,43,Candler,2676
+2020,Georgia,13,Carroll,45,Carroll,23152
+2020,Georgia,13,Catoosa,47,Catoosa,1955
+2020,Georgia,13,Charlton,49,Charlton,3800
+2020,Georgia,13,Chatham,51,Chatham,118570
+2020,Georgia,13,Chattahoochee,53,Chattahoochee,2158
+2020,Georgia,13,Chattooga,55,Chattooga,2479
+2020,Georgia,13,Cherokee,57,Cherokee,18807
+2020,Georgia,13,Clarke,59,Clarke,36289
+2020,Georgia,13,Clay,61,Clay,1747
+2020,Georgia,13,Clayton,63,Clayton,208812
+2020,Georgia,13,Clinch,65,Clinch,1822
+2020,Georgia,13,Cobb,67,Cobb,217220
+2020,Georgia,13,Coffee,69,Coffee,12282
+2020,Georgia,13,Colquitt,71,Colquitt,10760
+2020,Georgia,13,Columbia,73,Columbia,28390
+2020,Georgia,13,Cook,75,Cook,4788
+2020,Georgia,13,Coweta,77,Coweta,26839
+2020,Georgia,13,Crawford,79,Crawford,2562
+2020,Georgia,13,Crisp,81,Crisp,10080
+2020,Georgia,13,Dade,83,Dade,195
+2020,Georgia,13,Dawson,85,Dawson,226
+2020,Georgia,13,Decatur,87,Decatur,11348
+2020,Georgia,13,DeKalb,89,DeKalb,415350
+2020,Georgia,13,Dodge,91,Dodge,6253
+2020,Georgia,13,Dooly,93,Dooly,6853
+2020,Georgia,13,Dougherty,95,Dougherty,64691
+2020,Georgia,13,Douglas,97,Douglas,70340
+2020,Georgia,13,Early,99,Early,5267
+2020,Georgia,13,Echols,101,Echols,228
+2020,Georgia,13,Effingham,103,Effingham,8769
+2020,Georgia,13,Elbert,105,Elbert,5526
+2020,Georgia,13,Emanuel,107,Emanuel,7869
+2020,Georgia,13,Evans,109,Evans,3366
+2020,Georgia,13,Fannin,111,Fannin,208
+2020,Georgia,13,Fayette,113,Fayette,27571
+2020,Georgia,13,Floyd,115,Floyd,14591
+2020,Georgia,13,Forsyth,117,Forsyth,9701
+2020,Georgia,13,Franklin,119,Franklin,2233
+2020,Georgia,13,Fulton,121,Fulton,467301
+2020,Georgia,13,Gilmer,123,Gilmer,401
+2020,Georgia,13,Glascock,125,Glascock,270
+2020,Georgia,13,Glynn,127,Glynn,22924
+2020,Georgia,13,Gordon,129,Gordon,2538
+2020,Georgia,13,Grady,131,Grady,7350
+2020,Georgia,13,Greene,133,Greene,6000
+2020,Georgia,13,Gwinnett,135,Gwinnett,271840
+2020,Georgia,13,Habersham,137,Habersham,1861
+2020,Georgia,13,Hall,139,Hall,16374
+2020,Georgia,13,Hancock,141,Hancock,5944
+2020,Georgia,13,Haralson,143,Haralson,1388
+2020,Georgia,13,Harris,145,Harris,5757
+2020,Georgia,13,Hart,147,Hart,4985
+2020,Georgia,13,Heard,149,Heard,1164
+2020,Georgia,13,Henry,151,Henry,107283
+2020,Georgia,13,Houston,153,Houston,50216
+2020,Georgia,13,Irwin,155,Irwin,2631
+2020,Georgia,13,Jackson,157,Jackson,5141
+2020,Georgia,13,Jasper,159,Jasper,2808
+2020,Georgia,13,Jeff Davis,161,Jeff Davis,2284
+2020,Georgia,13,Jefferson,163,Jefferson,8162
+2020,Georgia,13,Jenkins,165,Jenkins,3760
+2020,Georgia,13,Johnson,167,Johnson,3320
+2020,Georgia,13,Jones,169,Jones,7183
+2020,Georgia,13,Lamar,171,Lamar,5814
+2020,Georgia,13,Lanier,173,Lanier,2295
+2020,Georgia,13,Laurens,175,Laurens,17652
+2020,Georgia,13,Lee,177,Lee,6548
+2020,Georgia,13,Liberty,179,Liberty,27366
+2020,Georgia,13,Lincoln,181,Lincoln,2303
+2020,Georgia,13,Long,183,Long,5148
+2020,Georgia,13,Lowndes,185,Lowndes,43155
+2020,Georgia,13,Lumpkin,187,Lumpkin,593
+2020,Georgia,13,Macon,193,Macon,7925
+2020,Georgia,13,Madison,195,Madison,2757
+2020,Georgia,13,Marion,197,Marion,2647
+2020,Georgia,13,McDuffie,189,McDuffie,8978
+2020,Georgia,13,McIntosh,191,McIntosh,4847
+2020,Georgia,13,Meriwether,199,Meriwether,8217
+2020,Georgia,13,Miller,201,Miller,1609
+2020,Georgia,13,Mitchell,205,Mitchell,10674
+2020,Georgia,13,Monroe,207,Monroe,6247
+2020,Georgia,13,Montgomery,209,Montgomery,2372
+2020,Georgia,13,Morgan,211,Morgan,4204
+2020,Georgia,13,Murray,213,Murray,479
+2020,Georgia,13,Muscogee,215,Muscogee,92808
+2020,Georgia,13,Newton,217,Newton,51046
+2020,Georgia,13,Oconee,219,Oconee,2081
+2020,Georgia,13,Oglethorpe,221,Oglethorpe,2589
+2020,Georgia,13,Paulding,223,Paulding,34121
+2020,Georgia,13,Peach,225,Peach,12174
+2020,Georgia,13,Pickens,227,Pickens,384
+2020,Georgia,13,Pierce,229,Pierce,1706
+2020,Georgia,13,Pike,231,Pike,1733
+2020,Georgia,13,Polk,233,Polk,5436
+2020,Georgia,13,Pulaski,235,Pulaski,3498
+2020,Georgia,13,Putnam,237,Putnam,5823
+2020,Georgia,13,Quitman,239,Quitman,1078
+2020,Georgia,13,Rabun,241,Rabun,270
+2020,Georgia,13,Randolph,243,Randolph,4202
+2020,Georgia,13,Richmond,245,Richmond,115087
+2020,Georgia,13,Rockdale,247,Rockdale,51639
+2020,Georgia,13,Schley,249,Schley,1052
+2020,Georgia,13,Screven,251,Screven,5756
+2020,Georgia,13,Seminole,253,Seminole,2736
+2020,Georgia,13,Spalding,255,Spalding,22871
+2020,Georgia,13,Stephens,257,Stephens,2864
+2020,Georgia,13,Stewart,259,Stewart,3019
+2020,Georgia,13,Sumter,261,Sumter,15788
+2020,Georgia,13,Talbot,263,Talbot,3450
+2020,Georgia,13,Taliaferro,265,Taliaferro,872
+2020,Georgia,13,Tattnall,267,Tattnall,7643
+2020,Georgia,13,Taylor,269,Taylor,3119
+2020,Georgia,13,Telfair,271,Telfair,5906
+2020,Georgia,13,Terrell,273,Terrell,5201
+2020,Georgia,13,Thomas,275,Thomas,16090
+2020,Georgia,13,Tift,277,Tift,12415
+2020,Georgia,13,Toombs,279,Toombs,7125
+2020,Georgia,13,Towns,281,Towns,154
+2020,Georgia,13,Treutlen,283,Treutlen,2158
+2020,Georgia,13,Troup,285,Troup,25632
+2020,Georgia,13,Turner,287,Turner,3220
+2020,Georgia,13,Twiggs,289,Twiggs,3316
+2020,Georgia,13,Union,291,Union,216
+2020,Georgia,13,Upson,293,Upson,7471
+2020,Georgia,13,Walker,295,Walker,3123
+2020,Georgia,13,Walton,297,Walton,17298
+2020,Georgia,13,Ware,299,Ware,10775
+2020,Georgia,13,Warren,301,Warren,3098
+2020,Georgia,13,Washington,303,Washington,10947
+2020,Georgia,13,Wayne,305,Wayne,5991
+2020,Georgia,13,Webster,307,Webster,1099
+2020,Georgia,13,Wheeler,309,Wheeler,2978
+2020,Georgia,13,White,311,White,599
+2020,Georgia,13,Whitfield,313,Whitfield,4579
+2020,Georgia,13,Wilcox,315,Wilcox,3075
+2020,Georgia,13,Wilkes,317,Wilkes,4089
+2020,Georgia,13,Wilkinson,319,Wilkinson,3470
+2020,Georgia,13,Worth,321,Worth,5724
